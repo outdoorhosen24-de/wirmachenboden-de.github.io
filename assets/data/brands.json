@@ -1,17 +1,17 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "selit",
+        "name": "Selit",
+        "slug": "selit",
+        "productCategory": "Selit",
+        "localThumb": "/assets/images/hersteller/selit.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "andiamo",
+        "name": "Andiamo",
+        "slug": "andiamo",
+        "productCategory": "Andiamo",
+        "localThumb": "/assets/images/hersteller/andiamo.webp"
     },
     {
         "key": "sonstige",
@@ -21,11 +21,39 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "wolfcraft",
+        "name": "Wolfcraft",
+        "slug": "wolfcraft",
+        "productCategory": "Wolfcraft",
+        "localThumb": "/assets/images/hersteller/wolfcraft.webp"
+    },
+    {
+        "key": "masterfloor",
+        "name": "Masterfloor",
+        "slug": "masterfloor",
+        "productCategory": "Masterfloor",
+        "localThumb": "/assets/images/hersteller/masterfloor.webp"
+    },
+    {
+        "key": "excellent",
+        "name": "Excellent",
+        "slug": "excellent",
+        "productCategory": "Excellent",
+        "localThumb": "/assets/images/hersteller/excellent.webp"
+    },
+    {
+        "key": "comfort",
+        "name": "Comfort",
+        "slug": "comfort",
+        "productCategory": "Comfort",
+        "localThumb": "/assets/images/hersteller/comfort.webp"
+    },
+    {
+        "key": "excellent plus",
+        "name": "Excellent Plus",
+        "slug": "excellent-plus",
+        "productCategory": "Excellent Plus",
+        "localThumb": "/assets/images/hersteller/excellent-plus.webp"
     },
     {
         "key": "obi",
@@ -35,52 +63,143 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "multimat",
+        "name": "Multimat",
+        "slug": "multimat",
+        "productCategory": "Multimat",
+        "localThumb": "/assets/images/hersteller/multimat.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "praktikus",
+        "name": "Praktikus",
+        "slug": "praktikus",
+        "productCategory": "Praktikus",
+        "localThumb": "/assets/images/hersteller/praktikus.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "obsession",
+        "name": "Obsession",
+        "slug": "obsession",
+        "productCategory": "Obsession",
+        "localThumb": "/assets/images/hersteller/obsession.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "parador",
+        "name": "Parador",
+        "slug": "parador",
+        "productCategory": "Parador",
+        "localThumb": "/assets/images/hersteller/parador.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "classen neo 2.0",
+        "name": "Classen Neo 2.0",
+        "slug": "classen-neo-2-0",
+        "productCategory": "Classen Neo 2.0",
+        "localThumb": "/assets/images/hersteller/classen-neo-2-0.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "gerflor",
+        "name": "Gerflor",
+        "slug": "gerflor",
+        "productCategory": "Gerflor",
+        "localThumb": "/assets/images/hersteller/gerflor.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "egger",
+        "name": "Egger",
+        "slug": "egger",
+        "productCategory": "Egger",
+        "localThumb": "/assets/images/hersteller/egger.webp"
+    },
+    {
+        "key": "astra",
+        "name": "ASTRA",
+        "slug": "astra",
+        "productCategory": "ASTRA",
+        "localThumb": "/assets/images/hersteller/astra.webp"
+    },
+    {
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "living by haro",
+        "name": "Living by Haro",
+        "slug": "living-by-haro",
+        "productCategory": "Living by Haro",
+        "localThumb": "/assets/images/hersteller/living-by-haro.webp"
+    },
+    {
+        "key": "classen",
+        "name": "Classen",
+        "slug": "classen",
+        "productCategory": "Classen",
+        "localThumb": "/assets/images/hersteller/classen.webp"
+    },
+    {
+        "key": "parkett freund",
+        "name": "Parkett Freund",
+        "slug": "parkett-freund",
+        "productCategory": "Parkett Freund",
+        "localThumb": "/assets/images/hersteller/parkett-freund.webp"
+    },
+    {
+        "key": "döllken profiles",
+        "name": "Döllken Profiles",
+        "slug": "doellken-profiles",
+        "productCategory": "Döllken Profiles",
+        "localThumb": "/assets/images/hersteller/doellken-profiles.webp"
+    },
+    {
+        "key": "kaindl",
+        "name": "Kaindl",
+        "slug": "kaindl",
+        "productCategory": "Kaindl",
+        "localThumb": "/assets/images/hersteller/kaindl.webp"
+    },
+    {
+        "key": "schöner wohnen",
+        "name": "Schöner Wohnen",
+        "slug": "schoener-wohnen",
+        "productCategory": "Schöner Wohnen",
+        "localThumb": "/assets/images/hersteller/schoener-wohnen.webp"
+    },
+    {
+        "key": "megafloor laminat",
+        "name": "Megafloor Laminat",
+        "slug": "megafloor-laminat",
+        "productCategory": "Megafloor Laminat",
+        "localThumb": "/assets/images/hersteller/megafloor-laminat.webp"
+    },
+    {
+        "key": "corklife",
+        "name": "Corklife",
+        "slug": "corklife",
+        "productCategory": "Corklife",
+        "localThumb": "/assets/images/hersteller/corklife.webp"
+    },
+    {
+        "key": "lalee",
+        "name": "Lalee",
+        "slug": "lalee",
+        "productCategory": "Lalee",
+        "localThumb": "/assets/images/hersteller/lalee.webp"
+    },
+    {
+        "key": "schöner wohnen kollektion",
+        "name": "Schöner Wohnen Kollektion",
+        "slug": "schoener-wohnen-kollektion",
+        "productCategory": "Schöner Wohnen Kollektion",
+        "localThumb": "/assets/images/hersteller/schoener-wohnen-kollektion.webp"
+    },
+    {
+        "key": "mineralpro",
+        "name": "MineralPro",
+        "slug": "mineralpro",
+        "productCategory": "MineralPro",
+        "localThumb": "/assets/images/hersteller/mineralpro.webp"
     }
 ]

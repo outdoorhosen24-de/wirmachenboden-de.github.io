@@ -1,107 +1,219 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "laminat, parkett & vinylböden",
+        "name": "Laminat, Parkett & Vinylböden",
+        "slug": "laminat-parkett-vinylboden",
+        "productCategory": "Laminat, Parkett & Vinylböden",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "trittschalldämmung",
+        "name": "Trittschalldämmung",
+        "slug": "trittschalldammung",
+        "productCategory": "Trittschalldämmung",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "kunstrasen",
+        "name": "Kunstrasen",
+        "slug": "kunstrasen",
+        "productCategory": "Kunstrasen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "laminatwerkzeug & parkettverlegewerkzeug",
+        "name": "Laminatwerkzeug & Parkettverlegewerkzeug",
+        "slug": "laminatwerkzeug-parkettverlegewerkzeug",
+        "productCategory": "Laminatwerkzeug & Parkettverlegewerkzeug",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "vinylböden",
+        "name": "Vinylböden",
+        "slug": "vinylboden",
+        "productCategory": "Vinylböden",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "laminat",
+        "name": "Laminat",
+        "slug": "laminat",
+        "productCategory": "Laminat",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "zubehör für laminat & parkett",
+        "name": "Zubehör für Laminat & Parkett",
+        "slug": "zubehor-fur-laminat-parkett",
+        "productCategory": "Zubehör für Laminat & Parkett",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "leisten",
+        "name": "Leisten",
+        "slug": "leisten",
+        "productCategory": "Leisten",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "parkett",
+        "name": "Parkett",
+        "slug": "parkett",
+        "productCategory": "Parkett",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "teppich-zubehör",
+        "name": "Teppich-Zubehör",
+        "slug": "teppich-zubehor",
+        "productCategory": "Teppich-Zubehör",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "teppichgleitschutz",
+        "name": "Teppichgleitschutz",
+        "slug": "teppichgleitschutz",
+        "productCategory": "Teppichgleitschutz",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "teppiche",
+        "name": "Teppiche",
+        "slug": "teppiche",
+        "productCategory": "Teppiche",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "outdoor-teppiche",
+        "name": "Outdoor-Teppiche",
+        "slug": "outdoor-teppiche",
+        "productCategory": "Outdoor-Teppiche",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "fußmatten & schmutzmatten",
+        "name": "Fußmatten & Schmutzmatten",
+        "slug": "fussmatten-schmutzmatten",
+        "productCategory": "Fußmatten & Schmutzmatten",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "kurzflorteppiche",
+        "name": "Kurzflorteppiche",
+        "slug": "kurzflorteppiche",
+        "productCategory": "Kurzflorteppiche",
+        "subCategories": []
+    },
+    {
+        "key": "teppichläufer",
+        "name": "Teppichläufer",
+        "slug": "teppichlaufer",
+        "productCategory": "Teppichläufer",
+        "subCategories": []
+    },
+    {
+        "key": "kinderteppiche",
+        "name": "Kinderteppiche",
+        "slug": "kinderteppiche",
+        "productCategory": "Kinderteppiche",
+        "subCategories": []
+    },
+    {
+        "key": "vintageteppiche",
+        "name": "Vintageteppiche",
+        "slug": "vintageteppiche",
+        "productCategory": "Vintageteppiche",
+        "subCategories": []
+    },
+    {
+        "key": "felle",
+        "name": "Felle",
+        "slug": "felle",
+        "productCategory": "Felle",
+        "subCategories": []
+    },
+    {
+        "key": "schaffelle",
+        "name": "Schaffelle",
+        "slug": "schaffelle",
+        "productCategory": "Schaffelle",
+        "subCategories": []
+    },
+    {
+        "key": "korkböden",
+        "name": "Korkböden",
+        "slug": "korkboden",
+        "productCategory": "Korkböden",
+        "subCategories": []
+    },
+    {
+        "key": "kuhfelle",
+        "name": "Kuhfelle",
+        "slug": "kuhfelle",
+        "productCategory": "Kuhfelle",
+        "subCategories": []
+    },
+    {
+        "key": "kunstfelle",
+        "name": "Kunstfelle",
+        "slug": "kunstfelle",
+        "productCategory": "Kunstfelle",
+        "subCategories": []
+    },
+    {
+        "key": "stufenmatten",
+        "name": "Stufenmatten",
+        "slug": "stufenmatten",
+        "productCategory": "Stufenmatten",
+        "subCategories": []
+    },
+    {
+        "key": "pvc-bodenbeläge",
+        "name": "PVC-Bodenbeläge",
+        "slug": "pvc-bodenbelage",
+        "productCategory": "PVC-Bodenbeläge",
+        "subCategories": []
+    },
+    {
+        "key": "hochflorteppiche",
+        "name": "Hochflorteppiche",
+        "slug": "hochflorteppiche",
+        "productCategory": "Hochflorteppiche",
+        "subCategories": []
+    },
+    {
+        "key": "wollteppiche",
+        "name": "Wollteppiche",
+        "slug": "wollteppiche",
+        "productCategory": "Wollteppiche",
+        "subCategories": []
+    },
+    {
+        "key": "teppichboden - meterware",
+        "name": "Teppichboden - Meterware",
+        "slug": "teppichboden-meterware",
+        "productCategory": "Teppichboden - Meterware",
+        "subCategories": []
+    },
+    {
+        "key": "moderne teppiche",
+        "name": "Moderne Teppiche",
+        "slug": "moderne-teppiche",
+        "productCategory": "Moderne Teppiche",
+        "subCategories": []
+    },
+    {
+        "key": "teppichfliesen",
+        "name": "Teppichfliesen",
+        "slug": "teppichfliesen",
+        "productCategory": "Teppichfliesen",
+        "subCategories": []
+    },
+    {
+        "key": "sisalteppiche",
+        "name": "Sisalteppiche",
+        "slug": "sisalteppiche",
+        "productCategory": "Sisalteppiche",
         "subCategories": []
     }
 ]
