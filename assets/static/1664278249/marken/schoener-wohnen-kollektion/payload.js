@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/schoener-wohnen-kollektion", {data:[{_img:{}}],fetch:{},mutations:void 0});
