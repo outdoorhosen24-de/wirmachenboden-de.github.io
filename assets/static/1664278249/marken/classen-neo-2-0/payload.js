@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/classen-neo-2-0", {data:[{_img:{}}],fetch:{},mutations:void 0});
