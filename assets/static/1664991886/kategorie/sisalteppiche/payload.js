@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/sisalteppiche", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/andiamo-teppich-sisal-beige-80-cm-x-250-cm-andiamo-7216096-1.jpg":"\u002Fassets\u002Fimages\u002Fandiamo-teppich-sisal-beige-80-cm-x-250-cm-andiamo-7216096-1.webp"}}],fetch:{},mutations:void 0});
