@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "wirmachenboden.de",
+    "hostname": "https://www.wirmachenboden.de/",
+    "email": "wirmachenboden.desurrealnetworks.io",
+    "organization": "wirmachenboden.de",
+    "logoText": "Wirmachenboden.de",
+    "title": "Bodenbel\u00e4ge",
+    "subline": "Der Online Shop f\u00fcr Bodenbel\u00e4ge",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "6536247",
+        "5146162",
+        "5145842",
+        "7078033",
+        "1574938",
+        "4062915"
+    ],
+    "winnerProducts": [
+        "7676588",
+        "4428546",
+        "2798353"
+    ],
+    "featuredCategories": [
+        "Outdoor-Teppiche",
+        "Laminat, Parkett & Vinylb\u00f6den",
+        "Kuhfelle",
+        "Teppichfliesen",
+        "Teppiche",
+        "Leisten"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Bodenbel\u00e4ge",
-        "featureText": "Your featured text goes here",
+        "featureText": "Bodenbel\u00e4ge sind ein wesentlicher Bestandteil jedes Einrichtungsprojekts. Die Auswahl an verschiedenen Bodenbel\u00e4gen ist heutzutage riesig. Bei der Planung eines Einrichtungsprojekts sollte man sich daher gut \u00fcberlegen, welcher Bodenbelag am besten zu den eigenen Bed\u00fcrfnissen und W\u00fcnschen passt.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Bodenbel\u00e4ge f\u00fcr jeden Geschmack!",
+            "metaDescription": "Bodenbel\u00e4ge in h\u00f6chster Qualit\u00e4t. Langlebigkeit und Optik - \u00fcberzeugen Sie sich selbst!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Bodenbel\u00e4ge: Die besten Optionen f\u00fcr Ihr Zuhause",
+                    "text": "Bodenbel\u00e4ge sind die Oberfl\u00e4chen, auf denen wir uns bewegen. Sie k\u00f6nnen aus verschiedenen Materialien wie Holz, Stein, Teppich, Linoleum oder PVC bestehen. Jedes Material hat seine eigenen Vor- und Nachteile. Holz ist zum Beispiel ein nat\u00fcrliches Material, das warm und weich ist, aber es kann auch splitterig und rutschig sein. Stein ist hart und langlebig, aber er kann kalt und unbequem sein. Teppiche sind weich und komfortabel, aber sie k\u00f6nnen stauben und Schmutz anziehen. Linoleum ist ein preiswertes und langlebiges Material, aber es kann hart und kalt sein. PVC ist ein robustes und langlebiges Material, aber es kann auch k\u00fchl und unbequem sein.\n\nDie Wahl des richtigen Bodenbelags h\u00e4ngt von vielen Faktoren ab, einschlie\u00dflich des Raums, in dem er verwendet wird, der Art der Aktivit\u00e4t, die auf ihm ausgef\u00fchrt wird, und der Pr\u00e4ferenz des Benutzers. Zum Beispiel ist ein Badezimmer in der Regel mit Linoleum oder PVC ausgestattet, da diese Materialien wasserdicht sind. Ein Schlafzimmer hingegen kann mit Teppich, Holz oder Stein ausgestattet sein, da diese Materialien den Raum warm und gem\u00fctlich machen.\n\nDie Art der Aktivit\u00e4t, die auf dem Boden ausgef\u00fchrt wird, ist ebenfalls ein wichtiger Faktor bei der Auswahl des richtigen Bodenbelags. Zum Beispiel ist ein Raum, in dem viel gelaufen oder getanzt wird, besser mit einem"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Bodenbel\u00e4ge Shop",
+            "metaDescription": "Bodenbel\u00e4ge Shop - Hier findest du eine gro\u00dfe Auswahl an verschiedenen Bodenbel\u00e4gen f\u00fcr jeden Geschmack und jeden Anspruch.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Bodenbel\u00e4ge: Die besten Hersteller",
+            "metaDescription": "Bodenbel\u00e4ge-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Bodenbel\u00e4gen f\u00fcr jeden Bedarf. Finden Sie den richtigen Bodenbelag f\u00fcr Ihr Zuhause oder Ihr Unternehmen.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Bodenbel\u00e4ge: $PRODUKT",
+        "defaultMetaDescription": "Bodenbel\u00e4ge in h\u00f6chster Qualit\u00e4t. $PRODUKT von $HERSTELLER ist die erste Wahl f\u00fcr Ihren Boden. Jetzt kaufen und $KATEGORIE ansehen.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Bodenbel\u00e4ge f\u00fcr jeden $KATEGORIE",
+        "defaultMetaDescription": "Bodenbel\u00e4ge in verschiedenen Ausf\u00fchrungen und Designs. Finden Sie den richtigen Bodenbelag f\u00fcr Ihr Zuhause in unserer Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Bodenbel\u00e4ge in h\u00f6chster Qualit\u00e4t von $HERSTELLER. Langlebigkeit und Optik - Bodenbel\u00e4ge von $HERSTELLER sind die erste Wahl.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Bodenbel\u00e4ge",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Bodenbel\u00e4ge Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Bodenbel\u00e4ge Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
