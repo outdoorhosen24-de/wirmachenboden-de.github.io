@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "wirmachenboden.de",
     "hostname": "https://www.wirmachenboden.de/",
     "email": "wirmachenboden.desurrealnetworks.io",
     "organization": "wirmachenboden.de",
     "logoText": "Wirmachenboden.de",
-    "title": "Bodenbel\u00e4ge",
-    "subline": "Der Online Shop f\u00fcr Bodenbel\u00e4ge",
+    "title": "Bodenbeläge",
+    "subline": "Der Online Shop für Bodenbeläge",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,7 +29,7 @@
     ],
     "featuredCategories": [
         "Outdoor-Teppiche",
-        "Laminat, Parkett & Vinylb\u00f6den",
+        "Laminat, Parkett & Vinylböden",
         "Kuhfelle",
         "Teppichfliesen",
         "Teppiche",
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Bodenbel\u00e4ge",
-        "featureText": "Bodenbel\u00e4ge sind ein wesentlicher Bestandteil jedes Einrichtungsprojekts. Die Auswahl an verschiedenen Bodenbel\u00e4gen ist heutzutage riesig. Bei der Planung eines Einrichtungsprojekts sollte man sich daher gut \u00fcberlegen, welcher Bodenbelag am besten zu den eigenen Bed\u00fcrfnissen und W\u00fcnschen passt.",
+        "mainKeyword": "Bodenbeläge",
+        "featureText": "Bodenbeläge sind ein wesentlicher Bestandteil jedes Einrichtungsprojekts. Die Auswahl an verschiedenen Bodenbelägen ist heutzutage riesig. Bei der Planung eines Einrichtungsprojekts sollte man sich daher gut überlegen, welcher Bodenbelag am besten zu den eigenen Bedürfnissen und Wünschen passt.",
         "index": {
-            "title": "Bodenbel\u00e4ge f\u00fcr jeden Geschmack!",
-            "metaDescription": "Bodenbel\u00e4ge in h\u00f6chster Qualit\u00e4t. Langlebigkeit und Optik - \u00fcberzeugen Sie sich selbst!",
+            "title": "Bodenbeläge für jeden Geschmack!",
+            "metaDescription": "Bodenbeläge in höchster Qualität. Langlebigkeit und Optik - überzeugen Sie sich selbst!",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Bodenbel\u00e4ge: Die besten Optionen f\u00fcr Ihr Zuhause",
-                    "text": "Bodenbel\u00e4ge sind die Oberfl\u00e4chen, auf denen wir uns bewegen. Sie k\u00f6nnen aus verschiedenen Materialien wie Holz, Stein, Teppich, Linoleum oder PVC bestehen. Jedes Material hat seine eigenen Vor- und Nachteile. Holz ist zum Beispiel ein nat\u00fcrliches Material, das warm und weich ist, aber es kann auch splitterig und rutschig sein. Stein ist hart und langlebig, aber er kann kalt und unbequem sein. Teppiche sind weich und komfortabel, aber sie k\u00f6nnen stauben und Schmutz anziehen. Linoleum ist ein preiswertes und langlebiges Material, aber es kann hart und kalt sein. PVC ist ein robustes und langlebiges Material, aber es kann auch k\u00fchl und unbequem sein.\n\nDie Wahl des richtigen Bodenbelags h\u00e4ngt von vielen Faktoren ab, einschlie\u00dflich des Raums, in dem er verwendet wird, der Art der Aktivit\u00e4t, die auf ihm ausgef\u00fchrt wird, und der Pr\u00e4ferenz des Benutzers. Zum Beispiel ist ein Badezimmer in der Regel mit Linoleum oder PVC ausgestattet, da diese Materialien wasserdicht sind. Ein Schlafzimmer hingegen kann mit Teppich, Holz oder Stein ausgestattet sein, da diese Materialien den Raum warm und gem\u00fctlich machen.\n\nDie Art der Aktivit\u00e4t, die auf dem Boden ausgef\u00fchrt wird, ist ebenfalls ein wichtiger Faktor bei der Auswahl des richtigen Bodenbelags. Zum Beispiel ist ein Raum, in dem viel gelaufen oder getanzt wird, besser mit einem"
+                    "title": "Bodenbeläge: Die besten Optionen für Ihr Zuhause",
+                    "text": "Bodenbeläge sind die Oberflächen, auf denen wir uns bewegen. Sie können aus verschiedenen Materialien wie Holz, Stein, Teppich, Linoleum oder PVC bestehen. Jedes Material hat seine eigenen Vor- und Nachteile. Holz ist zum Beispiel ein natürliches Material, das warm und weich ist, aber es kann auch splitterig und rutschig sein. Stein ist hart und langlebig, aber er kann kalt und unbequem sein. Teppiche sind weich und komfortabel, aber sie können stauben und Schmutz anziehen. Linoleum ist ein preiswertes und langlebiges Material, aber es kann hart und kalt sein. PVC ist ein robustes und langlebiges Material, aber es kann auch kühl und unbequem sein.\n\nDie Wahl des richtigen Bodenbelags hängt von vielen Faktoren ab, einschließlich des Raums, in dem er verwendet wird, der Art der Aktivität, die auf ihm ausgeführt wird, und der Präferenz des Benutzers. Zum Beispiel ist ein Badezimmer in der Regel mit Linoleum oder PVC ausgestattet, da diese Materialien wasserdicht sind. Ein Schlafzimmer hingegen kann mit Teppich, Holz oder Stein ausgestattet sein, da diese Materialien den Raum warm und gemütlich machen.\n\nDie Art der Aktivität, die auf dem Boden ausgeführt wird, ist ebenfalls ein wichtiger Faktor bei der Auswahl des richtigen Bodenbelags. Zum Beispiel ist ein Raum, in dem viel gelaufen oder getanzt wird, besser mit einem"
                 }
             ]
         },
         "shop": {
-            "title": "Bodenbel\u00e4ge Shop",
-            "metaDescription": "Bodenbel\u00e4ge Shop - Hier findest du eine gro\u00dfe Auswahl an verschiedenen Bodenbel\u00e4gen f\u00fcr jeden Geschmack und jeden Anspruch.",
+            "title": "Bodenbeläge Shop",
+            "metaDescription": "Bodenbeläge Shop - Hier findest du eine große Auswahl an verschiedenen Bodenbelägen für jeden Geschmack und jeden Anspruch.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Bodenbel\u00e4ge: Die besten Hersteller",
-            "metaDescription": "Bodenbel\u00e4ge-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Bodenbel\u00e4gen f\u00fcr jeden Bedarf. Finden Sie den richtigen Bodenbelag f\u00fcr Ihr Zuhause oder Ihr Unternehmen.",
+            "title": "Bodenbeläge: Die besten Hersteller",
+            "metaDescription": "Bodenbeläge-Hersteller bietet eine große Auswahl an hochwertigen Bodenbelägen für jeden Bedarf. Finden Sie den richtigen Bodenbelag für Ihr Zuhause oder Ihr Unternehmen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Bodenbel\u00e4ge: $PRODUKT",
-        "defaultMetaDescription": "Bodenbel\u00e4ge in h\u00f6chster Qualit\u00e4t. $PRODUKT von $HERSTELLER ist die erste Wahl f\u00fcr Ihren Boden. Jetzt kaufen und $KATEGORIE ansehen.",
+        "defaultTitle": "Bodenbeläge: $PRODUKT",
+        "defaultMetaDescription": "Bodenbeläge in höchster Qualität. $PRODUKT von $HERSTELLER ist die erste Wahl für Ihren Boden. Jetzt kaufen und $KATEGORIE ansehen.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Bodenbel\u00e4ge f\u00fcr jeden $KATEGORIE",
-        "defaultMetaDescription": "Bodenbel\u00e4ge in verschiedenen Ausf\u00fchrungen und Designs. Finden Sie den richtigen Bodenbelag f\u00fcr Ihr Zuhause in unserer Kategorie $KATEGORIE.",
+        "defaultTitle": "Bodenbeläge für jeden $KATEGORIE",
+        "defaultMetaDescription": "Bodenbeläge in verschiedenen Ausführungen und Designs. Finden Sie den richtigen Bodenbelag für Ihr Zuhause in unserer Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "Bodenbel\u00e4ge in h\u00f6chster Qualit\u00e4t von $HERSTELLER. Langlebigkeit und Optik - Bodenbel\u00e4ge von $HERSTELLER sind die erste Wahl.",
+        "defaultMetaDescription": "Bodenbeläge in höchster Qualität von $HERSTELLER. Langlebigkeit und Optik - Bodenbeläge von $HERSTELLER sind die erste Wahl.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Bodenbel\u00e4ge",
+            "linkTitle": "Bodenbeläge",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Bodenbel\u00e4ge Shop",
+            "linkTitle": "Bodenbeläge Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Bodenbel\u00e4ge Marken",
+            "linkTitle": "Bodenbeläge Marken",
             "publish": true
         },
         {
