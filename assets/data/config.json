@@ -51,12 +51,15 @@
             "title": "Bodenbeläge für jeden Geschmack!",
             "metaDescription": "Bodenbeläge in höchster Qualität. Langlebigkeit und Optik - überzeugen Sie sich selbst!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Bodenbeläge: Die besten Optionen für Ihr Zuhause",
-                    "text": "Bodenbeläge sind die Oberflächen, auf denen wir uns bewegen. Sie können aus verschiedenen Materialien wie Holz, Stein, Teppich, Linoleum oder PVC bestehen. Jedes Material hat seine eigenen Vor- und Nachteile. Holz ist zum Beispiel ein natürliches Material, das warm und weich ist, aber es kann auch splitterig und rutschig sein. Stein ist hart und langlebig, aber er kann kalt und unbequem sein. Teppiche sind weich und komfortabel, aber sie können stauben und Schmutz anziehen. Linoleum ist ein preiswertes und langlebiges Material, aber es kann hart und kalt sein. PVC ist ein robustes und langlebiges Material, aber es kann auch kühl und unbequem sein.\n\nDie Wahl des richtigen Bodenbelags hängt von vielen Faktoren ab, einschließlich des Raums, in dem er verwendet wird, der Art der Aktivität, die auf ihm ausgeführt wird, und der Präferenz des Benutzers. Zum Beispiel ist ein Badezimmer in der Regel mit Linoleum oder PVC ausgestattet, da diese Materialien wasserdicht sind. Ein Schlafzimmer hingegen kann mit Teppich, Holz oder Stein ausgestattet sein, da diese Materialien den Raum warm und gemütlich machen.\n\nDie Art der Aktivität, die auf dem Boden ausgeführt wird, ist ebenfalls ein wichtiger Faktor bei der Auswahl des richtigen Bodenbelags. Zum Beispiel ist ein Raum, in dem viel gelaufen oder getanzt wird, besser mit einem"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Bodenbeläge: Die besten Optionen für Ihr Zuhause",
+                        "text": "Bodenbeläge sind die Oberflächen, auf denen wir uns bewegen. Sie können aus verschiedenen Materialien wie Holz, Stein, Teppich, Linoleum oder PVC bestehen. Jedes Material hat seine eigenen Vor- und Nachteile. Holz ist zum Beispiel ein natürliches Material, das warm und weich ist, aber es kann auch splitterig und rutschig sein. Stein ist hart und langlebig, aber er kann kalt und unbequem sein. Teppiche sind weich und komfortabel, aber sie können stauben und Schmutz anziehen. Linoleum ist ein preiswertes und langlebiges Material, aber es kann hart und kalt sein. PVC ist ein robustes und langlebiges Material, aber es kann auch kühl und unbequem sein.\n\nDie Wahl des richtigen Bodenbelags hängt von vielen Faktoren ab, einschließlich des Raums, in dem er verwendet wird, der Art der Aktivität, die auf ihm ausgeführt wird, und der Präferenz des Benutzers. Zum Beispiel ist ein Badezimmer in der Regel mit Linoleum oder PVC ausgestattet, da diese Materialien wasserdicht sind. Ein Schlafzimmer hingegen kann mit Teppich, Holz oder Stein ausgestattet sein, da diese Materialien den Raum warm und gemütlich machen.\n\nDie Art der Aktivität, die auf dem Boden ausgeführt wird, ist ebenfalls ein wichtiger Faktor bei der Auswahl des richtigen Bodenbelags. Zum Beispiel ist ein Raum, in dem viel gelaufen oder getanzt wird, besser mit einem"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Bodenbeläge Shop",
