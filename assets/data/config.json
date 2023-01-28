@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "wirmachenboden.de",
     "hostname": "https://www.wirmachenboden.de/",
     "email": "wirmachenboden.de@surrealnetworks.io",
     "organization": "wirmachenboden.de",
     "logoText": "Wirmachenboden.de",
     "title": "Bodenbeläge",
-    "subline": "Der Online Shop für Bodenbeläge",
+    "subline": "Bodenbeläge online kaufen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Bodenbeläge",
-        "featureText": "Bodenbeläge sind ein wesentlicher Bestandteil jedes Einrichtungsprojekts. Die Auswahl an verschiedenen Bodenbelägen ist heutzutage riesig. Bei der Planung eines Einrichtungsprojekts sollte man sich daher gut überlegen, welcher Bodenbelag am besten zu den eigenen Bedürfnissen und Wünschen passt.",
+        "featureText": "In unserem Online Shop für Bodenbeläge führen wir Produkte in der Kategorie Laminat, Parkett, Vinylböden, Trittschalldämmung und leisten, aber auch andere Produkte wie Fußmatten, Schmutzmatten, Teppichläufer, Felle, Schaffelle und Kuhfelle. Wir führen Produkte von bekannten Herstellern wie Selit, Andiamo, Sonstige, Wolfcraft, Masterfloor, Excellent, Comfort, Excellent Plus, OBI, Multimat, Praktikus, Obsession, Parador, Classen Neo 2.0, Gerflor, Egger, ASTRA, LUX-TOOLS, Living by Haro, Classen, Parkett Freund, Döllken Profiles, Kaindl, Schöner Wohnen, Megafloor Laminat, Corklife, Lalee, Schöner Wohnen Kollektion und MineralPro. Die Bestellung wird über unsere Partner schnell geliefert und wir bieten eine Best-Preis-Garantie.",
         "index": {
-            "title": "Bodenbeläge für jeden Geschmack!",
-            "metaDescription": "Bodenbeläge in höchster Qualität. Langlebigkeit und Optik - überzeugen Sie sich selbst!",
+            "title": "Bodenbeläge günstig online kaufen",
+            "metaDescription": "Vergünstigt Bodenbeläge online bestellen. Wir führen Laminat, Parkett & Vinylböden, Trittschalldämmung, Kunstrasen, Parkettverlegewerkzeug und Zubehör. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,18 +62,18 @@
             }
         },
         "shop": {
-            "title": "Bodenbeläge Shop",
-            "metaDescription": "Bodenbeläge Shop - Hier findest du eine große Auswahl an verschiedenen Bodenbelägen für jeden Geschmack und jeden Anspruch.",
+            "title": "Der Shop für Bodenbeläge",
+            "metaDescription": "Bodenbeläge Shop - Hier wird eine große Auswahl an verschiedenen Bodenbelägen für jeden Geschmack und jede Anforderung angeboten.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Bodenbeläge: Die besten Hersteller",
-            "metaDescription": "Bodenbeläge-Hersteller bietet eine große Auswahl an hochwertigen Bodenbelägen für jeden Bedarf. Finden Sie den richtigen Bodenbelag für Ihr Zuhause oder Ihr Unternehmen.",
+            "title": "Alle Hersteller für Bodenbeläge im Überblick",
+            "metaDescription": "Eine Übersicht aller Hersteller für Bodenbeläge wie Laminat, Parkett und Vinylböden. Renommierte Hersteller und Produkte zu top Preisen. Produkte auf Lager.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Bodenbeläge: $PRODUKT",
+        "defaultTitle": "$PRODUKT",
         "defaultMetaDescription": "Bodenbeläge in höchster Qualität. $PRODUKT von $HERSTELLER ist die erste Wahl für Ihren Boden. Jetzt kaufen und $KATEGORIE ansehen.",
         "defaultRobots": "index, follow",
         "products": [
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Bodenbeläge für jeden $KATEGORIE",
-        "defaultMetaDescription": "Bodenbeläge in verschiedenen Ausführungen und Designs. Finden Sie den richtigen Bodenbelag für Ihr Zuhause in unserer Kategorie $KATEGORIE.",
+        "defaultTitle": "$KATEGORIE | Shop",
+        "defaultMetaDescription": "Top Produkte in der Kategorie $KATEGORIE online kaufen auf wirmachenboden. Günstige Preise und top Produkte. Jetzt Geld sparen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Bodenbeläge in höchster Qualität von $HERSTELLER. Langlebigkeit und Optik - Bodenbeläge von $HERSTELLER sind die erste Wahl.",
+        "defaultTitle": "$HERSTELLER | Shop",
+        "defaultMetaDescription": "Bodenbeläge in höchster Qualität von $HERSTELLER. Langlebigkeit und Optik: Bodenbeläge von $HERSTELLER sind die erste Wahl. Beste Preise.",
         "defaultRobots": "index, follow",
         "brands": [
             {
