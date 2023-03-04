@@ -2,14 +2,14 @@
     {
         "key": "laminat, parkett & vinylböden",
         "name": "Laminat, Parkett & Vinylböden",
-        "slug": "laminat-parkett-vinylboden",
+        "slug": "laminat-parkett-vinylboeden",
         "productCategory": "Laminat, Parkett & Vinylböden",
         "subCategories": []
     },
     {
         "key": "trittschalldämmung",
         "name": "Trittschalldämmung",
-        "slug": "trittschalldammung",
+        "slug": "trittschalldaemmung",
         "productCategory": "Trittschalldämmung",
         "subCategories": []
     },
@@ -30,7 +30,7 @@
     {
         "key": "vinylböden",
         "name": "Vinylböden",
-        "slug": "vinylboden",
+        "slug": "vinylboeden",
         "productCategory": "Vinylböden",
         "subCategories": []
     },
@@ -44,7 +44,7 @@
     {
         "key": "zubehör für laminat & parkett",
         "name": "Zubehör für Laminat & Parkett",
-        "slug": "zubehor-fur-laminat-parkett",
+        "slug": "zubehoer-fuer-laminat-parkett",
         "productCategory": "Zubehör für Laminat & Parkett",
         "subCategories": []
     },
@@ -65,7 +65,7 @@
     {
         "key": "teppich-zubehör",
         "name": "Teppich-Zubehör",
-        "slug": "teppich-zubehor",
+        "slug": "teppich-zubehoer",
         "productCategory": "Teppich-Zubehör",
         "subCategories": []
     },
@@ -107,7 +107,7 @@
     {
         "key": "teppichläufer",
         "name": "Teppichläufer",
-        "slug": "teppichlaufer",
+        "slug": "teppichlaeufer",
         "productCategory": "Teppichläufer",
         "subCategories": []
     },
@@ -142,7 +142,7 @@
     {
         "key": "korkböden",
         "name": "Korkböden",
-        "slug": "korkboden",
+        "slug": "korkboeden",
         "productCategory": "Korkböden",
         "subCategories": []
     },
@@ -170,7 +170,7 @@
     {
         "key": "pvc-bodenbeläge",
         "name": "PVC-Bodenbeläge",
-        "slug": "pvc-bodenbelage",
+        "slug": "pvc-bodenbelaege",
         "productCategory": "PVC-Bodenbeläge",
         "subCategories": []
     },
