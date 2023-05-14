@@ -1,467 +1,474 @@
 {
-  "configIsReady": true,
-  "domain": "wirmachenboden.de",
-  "hostname": "https://www.wirmachenboden.de/",
-  "email": "wirmachenboden.de@surrealnetworks.io",
-  "organization": "wirmachenboden.de",
-  "logoText": "Wirmachenboden.de",
-  "title": "Bodenbeläge",
-  "subline": "Bodenbeläge online kaufen",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "6536247",
-    "5146162",
-    "5145842",
-    "7078033",
-    "1574938",
-    "4062915"
-  ],
-  "winnerProducts": [
-    "7676588",
-    "4428546",
-    "2798353"
-  ],
-  "featuredCategories": [
-    "Outdoor-Teppiche",
-    "Laminat, Parkett & Vinylböden",
-    "Kuhfelle",
-    "Teppichfliesen",
-    "Teppiche",
-    "Leisten"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Bodenbeläge",
-    "featureText": "In unserem Online Shop für Bodenbeläge führen wir Produkte in der Kategorie Laminat, Parkett, Vinylböden, Trittschalldämmung und leisten, aber auch andere Produkte wie Fußmatten, Schmutzmatten, Teppichläufer, Felle, Schaffelle und Kuhfelle. Wir führen Produkte von bekannten Herstellern wie Selit, Andiamo, Sonstige, Wolfcraft, Masterfloor, Excellent, Comfort, Excellent Plus, OBI, Multimat, Praktikus, Obsession, Parador, Classen Neo 2.0, Gerflor, Egger, ASTRA, LUX-TOOLS, Living by Haro, Classen, Parkett Freund, Döllken Profiles, Kaindl, Schöner Wohnen, Megafloor Laminat, Corklife, Lalee, Schöner Wohnen Kollektion und MineralPro. Die Bestellung wird über unsere Partner schnell geliefert und wir bieten eine Best-Preis-Garantie.",
-    "index": {
-      "title": "Bodenbeläge günstig online kaufen",
-      "metaDescription": "Vergünstigt Bodenbeläge online bestellen. Wir führen Laminat, Parkett & Vinylböden, Trittschalldämmung, Kunstrasen, Parkettverlegewerkzeug und Zubehör. ",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Wirmachenboden - Ihrem Experten für Bodenbeläge",
-            "text": "Herzlich willkommen bei Wirmachenboden, Ihrem Online-Shop für Bodenbeläge. Wir bieten Ihnen eine große Auswahl an Bodenbelägen, darunter Laminat, Parkett, Vinylböden, Kunstrasen, Trittschalldämmung, Teppiche und vieles mehr. Unsere Produkte sind hochwertig und werden sorgfältig ausgewählt, um Ihnen eine lange Lebensdauer und höchste Qualität zu garantieren. Wir legen großen Wert auf Kundenzufriedenheit und bieten Ihnen daher eine einfache und sichere Online-Bestellung, sowie eine schnelle Lieferung direkt zu Ihnen nach Hause. Entdecken Sie jetzt unser vielfältiges Angebot und finden Sie den Bodenbelag, der zu Ihnen und Ihrem Zuhause passt."
-          },
-          {
-            "title": "Laminat, Parkett & Vinylböden",
-            "text": "Entdecken Sie unser vielfältiges Angebot an Laminat, Parkett und Vinylböden. Wir bieten Ihnen eine große Auswahl an hochwertigen Bodenbelägen, die Ihnen eine lange Lebensdauer und höchste Qualität garantieren. Ob Sie einen robusten und strapazierfähigen Bodenbelag für Ihr Zuhause suchen oder einen stilvollen Bodenbelag für Ihr Büro, bei Wirmachenboden finden Sie garantiert das richtige Produkt. Überzeugen Sie sich jetzt von unserer Qualität und bestellen Sie bequem online."
-          },
-          {
-            "title": "Trittschalldämmung",
-            "text": "Verbessern Sie den Komfort in Ihrem Zuhause mit unseren <a href=\"/kategorie/trittschalldaemmung/\" title=\"Trittschalldämmung\">Trittschalldämmung</a>en. Wir bieten Ihnen eine große Auswahl an hochwertigen Trittschalldämmungen, die Ihnen eine angenehme Stille und eine verbesserte Akustik garantieren. Unsere Trittschalldämmungen sind einfach zu verlegen und bieten Ihnen eine lange Lebensdauer. Überzeugen Sie sich jetzt von unseren Trittschalldämmungen und bestellen Sie bequem online."
-          },
-          {
-            "title": "Kunstrasen",
-            "text": "Entdecken Sie unser vielfältiges Angebot an <a href=\"/kategorie/kunstrasen/\" title=\"Kunstrasen\">Kunstrasen</a>. Wir bieten Ihnen eine große Auswahl an hochwertigen Kunstrasen, die Ihnen eine lange Lebensdauer und höchste Qualität garantieren. Ob Sie einen robusten und strapazierfähigen Kunstrasen für Ihren Garten suchen oder einen stilvollen Kunstrasen für Ihre Terrasse, bei Wirmachenboden finden Sie garantiert das richtige Produkt. Überzeugen Sie sich jetzt von unserer Qualität und bestellen Sie bequem online."
-          },
-          {
-            "title": "Laminatwerkzeug & Parkettverlegewerkzeug",
-            "text": "Verleihen Sie Ihrem Boden eine neue Optik mit unserem hochwertigen Laminat- und Parkettverlegewerkzeug. Wir bieten Ihnen eine große Auswahl an Werkzeugen, die Sie für eine einfache und sichere Verlegung Ihres Bodenbelags benötigen. Unsere Werkzeuge sind langlebig und sorgen für ein perfektes Ergebnis. Überzeugen Sie sich jetzt von unserer Qualität und bestellen Sie bequem online."
-          },
-          {
-            "title": "Vinylböden",
-            "text": "Entdecken Sie unser vielfältiges Angebot an <a href=\"/kategorie/vinylboeden/\" title=\"Vinylböden\">Vinylböden</a>. Wir bieten Ihnen eine große Auswahl an hochwertigen Vinylböden, die Ihnen eine lange Lebensdauer und höchste Qualität garantieren. Ob Sie einen robusten und strapazierfähigen Bodenbelag für Ihr Zuhause suchen oder einen stilvollen Bodenbelag für Ihr Büro, bei Wirmachenboden finden Sie garantiert das richtige Produkt. Überzeugen Sie sich jetzt von unserer Qualität und bestellen Sie bequem online."
-          },
-          {
-            "title": "Laminat",
-            "text": "Entdecken Sie unser vielfältiges Angebot an <a href=\"/kategorie/laminat/\" title=\"Laminat\">Laminat</a>böden. Wir bieten Ihnen eine große Auswahl an hochwertigen Laminatböden, die Ihnen eine lange Lebensdauer und höchste Qualität garantieren. Ob Sie einen robusten und strapazierfähigen Bodenbelag für Ihr Zuhause suchen oder einen stilvollen Bodenbelag für Ihr Büro, bei Wirmachenboden finden Sie garantiert das richtige Produkt. Überzeugen Sie sich jetzt von unserer Qualität und bestellen Sie bequem online."
-          },
-          {
-            "title": "Zubehör für Laminat & Parkett",
-            "text": "Entdecken Sie bei Wirmachenboden das passende Zubehör für Ihre Laminat- oder Parkettböden. Von Leisten über Sockelleisten bis hin zu Reinigungsmitteln bieten wir Ihnen alles, was Sie für den perfekten Abschluss Ihrer Bodenbeläge benötigen. Überzeugen Sie sich selbst von unserer großen Auswahl an hochwertigen und langlebigen Produkten."
-          },
-          {
-            "title": "Leisten",
-            "text": "Verleihen Sie Ihren Bodenbelägen den letzten Schliff mit den passenden <a href=\"/kategorie/leisten/\" title=\"Leisten\">Leisten</a>. Bei Wirmachenboden finden Sie eine große Auswahl an Leisten in verschiedenen Materialien und Farben, die perfekt zu Ihren Bodenbelägen passen. Ob für Laminatböden, Parkettböden oder andere Bodenbeläge, wir haben die passenden Leisten für Sie."
-          },
-          {
-            "title": "Parkett",
-            "text": "Erleben Sie die natürliche Schönheit von <a href=\"/kategorie/parkett/\" title=\"Parkett\">Parkett</a>böden. Bei Wirmachenboden finden Sie eine große Auswahl an Parkettböden in verschiedenen Holzarten, Farben und Designs. Ob für Ihr Wohnzimmer, Schlafzimmer oder Büro, Parkettböden verleihen jedem Raum eine warme und gemütliche Atmosphäre. Überzeugen Sie sich selbst von unseren hochwertigen Parkettböden."
-          },
-          {
-            "title": "Teppich-Zubehör bei Wirmachenboden.de",
-            "text": "Verleihen Sie Ihren Teppichen das gewisse Extra mit hochwertigem Teppich-Zubehör. Bei Wirmachenboden.de finden Sie eine breite Auswahl an Produkten, die Ihnen dabei helfen, Ihre Teppiche in Top-Form zu halten. Von Teppichgleitschutz bis hin zu Reinigungsprodukten bieten wir Ihnen alles, was Sie benötigen, um Ihre Teppiche lange wie neu aussehen zu lassen."
-          },
-          {
-            "title": "Teppichgleitschutz bei Wirmachenboden.de",
-            "text": "Verhindern Sie unangenehme Stürze und Unfälle mit Teppichgleitschutz von Wirmachenboden.de. Unsere hochwertigen Teppichunterlagen sorgen dafür, dass Ihre Teppiche rutschfest bleiben und somit ein sicheres Laufvergnügen garantieren. Stöbern Sie in unserem Sortiment und finden Sie das perfekte Teppichgleitschutz-Produkt für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Teppiche bei Wirmachenboden.de",
-            "text": "Entdecken Sie die Welt der Teppiche bei Wirmachenboden.de. Wir bieten Ihnen eine breite Auswahl an verschiedenen Teppichtypen, Farben und Designs. Von klassischen Teppichen bis hin zu modernen Teppichdesigns finden Sie bei uns alles, was das Herz begehrt. Lassen Sie sich von unserer Vielfalt inspirieren und finden Sie Ihren neuen Lieblingsteppich."
-          },
-          {
-            "title": "Outdoor-Teppiche",
-            "text": "Entdecken Sie unser breites Angebot an <a href=\"/kategorie/outdoor-teppiche/\" title=\"Outdoor-Teppiche\">Outdoor-Teppiche</a>n für Ihre Terrasse oder Ihren Garten. Wir bieten eine große Auswahl an robusten und langlebigen Teppichen, die den Elementen trotzen und Ihnen ein angenehmes Laufgefühl bieten. Verleihen Sie Ihrem Außenbereich mit unseren Outdoor-Teppichen den letzten Schliff."
-          },
-          {
-            "title": "Fußmatten & Schmutzmatten",
-            "text": "Schützen Sie Ihre Böden vor Schmutz und Feuchtigkeit mit unseren praktischen Fuß- und Schmutzmatten. Wir bieten Ihnen eine große Auswahl an Größen und Farben, um Ihren Eingangsbereich stilvoll und funktional zu gestalten. Bestellen Sie jetzt Ihre neue Fußmatte oder Schmutzmatte bei wirmachenboden.de."
-          },
-          {
-            "title": "Kurzflorteppiche",
-            "text": "Fügen Sie Ihrem Zuhause mit unseren kuscheligen <a href=\"/kategorie/kurzflorteppiche/\" title=\"Kurzflorteppiche\">Kurzflorteppiche</a>n eine warme und gemütliche Atmosphäre hinzu. Wir bieten Ihnen eine große Auswahl an Farben und Designs, um jedem Raum eine individuelle Note zu verleihen. Bestellen Sie jetzt Ihren neuen Kurzflorteppich bei wirmachenboden.de."
-          },
-          {
-            "title": "Teppichläufer",
-            "text": "<a href=\"/kategorie/teppichlaeufer/\" title=\"Teppichläufer\">Teppichläufer</a> sind eine grossartige Möglichkeit, Ihre Böden zu schützen und zu dekorieren. In unserem Online-Shop https://www.wirmachenboden.de/ finden Sie eine große Auswahl an Teppichläufern in verschiedenen Größen, Farben und Designs. Ob Sie einen Teppichläufer für Ihr Esszimmer, Ihr Wohnzimmer oder Ihren Flur suchen, bei uns werden Sie sicher fündig. Unsere Teppichläufer sind langlebig und einfach zu pflegen, sodass Sie lange Freude an Ihrem neuen Bodenbelag haben werden."
-          },
-          {
-            "title": "Kinderteppiche",
-            "text": "<a href=\"/kategorie/kinderteppiche/\" title=\"Kinderteppiche\">Kinderteppiche</a> sind ein wichtiger Teil jedes Kinderzimmers. Sie schützen die Füsse Ihrer Kinder vor kalten Böden und bieten gleichzeitig eine bequeme Spielfläche. In unserem Online-Shop https://www.wirmachenboden.de/ finden Sie eine große Auswahl an Kinderteppichen in verschiedenen Größen, Farben und Designs. Unsere Kinderteppiche sind weich und bequem, und dank der hochwertigen Materialien, aus denen sie hergestellt werden, langlebig und pflegeleicht. Entdecken Sie jetzt unsere Kinderteppiche und schaffen Sie Ihrem Nachwuchs ein gemütliches Zuhause."
-          },
-          {
-            "title": "Vintageteppiche",
-            "text": "<a href=\"/kategorie/vintageteppiche/\" title=\"Vintageteppiche\">Vintageteppiche</a> verleihen Ihrem Zuhause eine zeitlose Eleganz. In unserem Online-Shop https://www.wirmachenboden.de/ finden Sie eine große Auswahl an Vintageteppichen in verschiedenen Größen, Farben und Designs. Ob Sie einen Teppich im orientalischen oder im modernen Stil suchen, bei uns werden Sie fündig. Unsere Vintageteppiche sind aus hochwertigen Materialien hergestellt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt unsere Vintageteppiche und verleihen Sie Ihrem Zuhause eine besondere Note."
-          },
-          {
-            "title": "Felle",
-            "text": "Erleben Sie das natürliche Flair von <a href=\"/kategorie/felle/\" title=\"Felle\">Felle</a>n in Ihrem Zuhause. Bei wirmachenboden.de finden Sie eine breite Auswahl an hochwertigen Fellen für jeden Geschmack und Einrichtungsstil. Ob als Teppich oder als Dekoration, Felle bringen Wärme und Gemütlichkeit in jeden Raum. Entdecken Sie jetzt unser Sortiment an Felle."
-          },
-          {
-            "title": "Schaffelle",
-            "text": "<a href=\"/kategorie/schaffelle/\" title=\"Schaffelle\">Schaffelle</a> sind ein besonderes Highlight in jedem Zuhause. Als Teppich, Sitzunterlage oder als dekorative Wandbefestigung, Schaffelle verleihen jedem Raum eine natürliche und gemütliche Atmosphäre. Bei wirmachenboden.de finden Sie eine große Auswahl an hochwertigen Schaffellen, die Sie begeistern werden. Entdecken Sie jetzt unser Angebot."
-          },
-          {
-            "title": "Korkböden",
-            "text": "<a href=\"/kategorie/korkboeden/\" title=\"Korkböden\">Korkböden</a> sind eine umweltfreundliche und strapazierfähige Alternative zu traditionellen Bodenbelägen. Bei wirmachenboden.de finden Sie eine breite Auswahl an Korkböden in verschiedenen Farben und Designs. Kork ist warm und angenehm zu Fuß, außerdem schall- und wärmedämmend. Entdecken Sie jetzt unser Sortiment an Korkböden."
-          },
-          {
-            "title": "Kuhfelle",
-            "text": "Entdecken Sie die natürliche Schönheit von <a href=\"/kategorie/kuhfelle/\" title=\"Kuhfelle\">Kuhfelle</a>n in unserem Online-Shop. Wir bieten eine breite Auswahl an hochwertigen Kuhfellen, die jedem Zuhause eine warme und gemütliche Atmosphäre verleihen. Ob als Teppich oder als dekorative Decke, ein Kuhfell ist ein zeitloser Klassiker, der nie aus der Mode kommt."
-          },
-          {
-            "title": "Kunstfelle",
-            "text": "Für alle, die tierfreundlicher einrichten möchten, bieten wir eine große Auswahl an <a href=\"/kategorie/kunstfelle/\" title=\"Kunstfelle\">Kunstfelle</a>n an. Diese Felle sehen genauso schön aus wie echte Felle, sind jedoch vollständig tierfreundlich und ethisch vertretbar. Erkunden Sie unsere Auswahl an Kunstfellen in verschiedenen Farben und Designs, um den perfekten Teppich oder die perfekte Decke für Ihr Zuhause zu finden."
-          },
-          {
-            "title": "Stufenmatten",
-            "text": "Schützen Sie Ihre Stufen vor Abnutzung und geben Sie ihnen zusätzlichen Halt mit unseren <a href=\"/kategorie/stufenmatten/\" title=\"Stufenmatten\">Stufenmatten</a>. Wir bieten eine breite Auswahl an Stufenmatten in verschiedenen Größen, Farben und Materialien, um jedem Zuhause eine sichere und stilvolle Atmosphäre zu verleihen. Schauen Sie sich jetzt unsere Auswahl an Stufenmatten an und finden Sie die perfekte Lösung für Ihre Treppe."
-          },
-          {
-            "title": "PVC-Bodenbeläge",
-            "text": "Entdecken Sie die Vielfalt an hochwertigen <a href=\"/kategorie/pvc-bodenbelaege/\" title=\"PVC-Bodenbeläge\">PVC-Bodenbeläge</a>n in unserem Online-Shop. Ob für den Wohnbereich oder den gewerblichen Einsatz, unsere PVC-Bodenbeläge bieten Ihnen Langlebigkeit und Widerstandsfähigkeit. Wählen Sie aus einer Vielzahl von Designs und Farben und lassen Sie Ihren Boden in neuem Glanz erstrahlen."
-          },
-          {
-            "title": "Hochflorteppiche",
-            "text": "Fühlen Sie sich zu Hause wie auf Wolken mit unseren weichen und komfortablen <a href=\"/kategorie/hochflorteppiche/\" title=\"Hochflorteppiche\">Hochflorteppiche</a>n. Wir bieten eine breite Palette an Farben und Designs, die perfekt zu Ihrem Wohnstil passen. Unsere Hochflorteppiche sind robust und langlebig und werden ein wahrer Blickfang in Ihrem Zuhause sein."
-          },
-          {
-            "title": "Wollteppiche",
-            "text": "Erleben Sie den natürlichen Charme von <a href=\"/kategorie/wollteppiche/\" title=\"Wollteppiche\">Wollteppiche</a>n in unserem Online-Shop. Unsere Wollteppiche sind weich und warm und bieten eine angenehme Atmosphäre in Ihrem Zuhause. Wählen Sie aus einer Vielzahl von Farben und Designs und bringen Sie ein Stück Natur in Ihr Zuhause."
-          },
-          {
-            "title": "Teppichboden - Meterware",
-            "text": "Entdecken Sie bei Wirmachenboden die Vielfalt an Teppichböden in Meterware. Ob für Ihr Wohnzimmer, Schlafzimmer oder andere Räume, hier finden Sie den passenden Teppichboden für jeden Bedarf. Wählen Sie aus unserem großen Sortiment an Materialien, Farben und Designs. Wir bieten Ihnen eine schnelle und zuverlässige Lieferung direkt zu Ihnen nach Hause."
-          },
-          {
-            "title": "Moderne Teppiche",
-            "text": "Erneuern Sie Ihre Wohnräume mit modernen Teppichen von Wirmachenboden. Unsere Teppiche sind aus hochwertigen Materialien hergestellt und in verschiedenen Farben und Designs erhältlich. Egal, ob Sie einen Teppich für Ihr Wohnzimmer, Schlafzimmer oder einen anderen Raum suchen, bei uns finden Sie garantiert das Richtige. Überzeugen Sie sich selbst von unserer großen Auswahl."
-          },
-          {
-            "title": "Teppichfliesen",
-            "text": "Erstellen Sie Ihren eigenen Teppichboden mit <a href=\"/kategorie/teppichfliesen/\" title=\"Teppichfliesen\">Teppichfliesen</a> von Wirmachenboden. Unsere Teppichfliesen sind einfach zu verlegen und können individuell angepasst werden. Wählen Sie aus einer Vielzahl an Farben, Designs und Materialien und erstellen Sie Ihren eigenen Teppichboden ganz nach Ihren Wünschen. Entdecken Sie jetzt die Vielfalt an Teppichfliesen bei Wirmachenboden."
-          },
-          {
-            "title": "Sisalteppiche",
-            "text": "Entdecken Sie bei WirMachenBoden eine große Auswahl an hochwertigen <a href=\"/kategorie/sisalteppiche/\" title=\"Sisalteppiche\">Sisalteppiche</a>n. Unsere Sisalteppiche sind robust, langlebig und pflegeleicht. Sie bringen eine natürliche Ausstrahlung in Ihr Zuhause und sorgen für eine warme und gemütliche Atmosphäre. Ob für Ihr Wohnzimmer, Schlafzimmer oder Büro, bei uns finden Sie garantiert den passenden Sisalteppich für Ihren Bedarf. Stöbern Sie jetzt durch unser umfangreiches Sortiment und finden Sie Ihren neuen Lieblingsteppich."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "wirmachenboden.de",
+    "hostname": "https://www.wirmachenboden.de/",
+    "email": "wirmachenboden.de@surrealnetworks.io",
+    "organization": "wirmachenboden.de",
+    "logoText": "Wirmachenboden.de",
+    "title": "Bodenbeläge",
+    "subline": "Bodenbeläge online kaufen",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "6536247",
+        "5146162",
+        "5145842",
+        "7078033",
+        "1574938",
+        "4062915"
+    ],
+    "winnerProducts": [
+        "7676588",
+        "4428546",
+        "2798353"
+    ],
+    "featuredCategories": [
+        "Outdoor-Teppiche",
+        "Laminat, Parkett & Vinylböden",
+        "Kuhfelle",
+        "Teppichfliesen",
+        "Teppiche",
+        "Leisten"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Bodenbeläge",
+        "featureText": "In unserem Online Shop für Bodenbeläge führen wir Produkte in der Kategorie Laminat, Parkett, Vinylböden, Trittschalldämmung und leisten, aber auch andere Produkte wie Fußmatten, Schmutzmatten, Teppichläufer, Felle, Schaffelle und Kuhfelle. Wir führen Produkte von bekannten Herstellern wie Selit, Andiamo, Sonstige, Wolfcraft, Masterfloor, Excellent, Comfort, Excellent Plus, OBI, Multimat, Praktikus, Obsession, Parador, Classen Neo 2.0, Gerflor, Egger, ASTRA, LUX-TOOLS, Living by Haro, Classen, Parkett Freund, Döllken Profiles, Kaindl, Schöner Wohnen, Megafloor Laminat, Corklife, Lalee, Schöner Wohnen Kollektion und MineralPro. Die Bestellung wird über unsere Partner schnell geliefert und wir bieten eine Best-Preis-Garantie.",
+        "index": {
+            "title": "Bodenbeläge günstig online kaufen",
+            "metaDescription": "Vergünstigt Bodenbeläge online bestellen. Wir führen Laminat, Parkett & Vinylböden, Trittschalldämmung, Kunstrasen, Parkettverlegewerkzeug und Zubehör. ",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Wirmachenboden - Ihrem Experten für Bodenbeläge",
+                        "text": "Herzlich willkommen bei Wirmachenboden, Ihrem Online-Shop für Bodenbeläge. Wir bieten Ihnen eine große Auswahl an Bodenbelägen, darunter Laminat, Parkett, Vinylböden, Kunstrasen, Trittschalldämmung, Teppiche und vieles mehr. Unsere Produkte sind hochwertig und werden sorgfältig ausgewählt, um Ihnen eine lange Lebensdauer und höchste Qualität zu garantieren. Wir legen großen Wert auf Kundenzufriedenheit und bieten Ihnen daher eine einfache und sichere Online-Bestellung, sowie eine schnelle Lieferung direkt zu Ihnen nach Hause. Entdecken Sie jetzt unser vielfältiges Angebot und finden Sie den Bodenbelag, der zu Ihnen und Ihrem Zuhause passt."
+                    },
+                    {
+                        "title": "Laminat, Parkett & Vinylböden",
+                        "text": "Entdecken Sie unser vielfältiges Angebot an Laminat, Parkett und Vinylböden. Wir bieten Ihnen eine große Auswahl an hochwertigen Bodenbelägen, die Ihnen eine lange Lebensdauer und höchste Qualität garantieren. Ob Sie einen robusten und strapazierfähigen Bodenbelag für Ihr Zuhause suchen oder einen stilvollen Bodenbelag für Ihr Büro, bei Wirmachenboden finden Sie garantiert das richtige Produkt. Überzeugen Sie sich jetzt von unserer Qualität und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Trittschalldämmung",
+                        "text": "Verbessern Sie den Komfort in Ihrem Zuhause mit unseren <a href=\"/kategorie/trittschalldaemmung/\" title=\"Trittschalldämmung\">Trittschalldämmung</a>en. Wir bieten Ihnen eine große Auswahl an hochwertigen Trittschalldämmungen, die Ihnen eine angenehme Stille und eine verbesserte Akustik garantieren. Unsere Trittschalldämmungen sind einfach zu verlegen und bieten Ihnen eine lange Lebensdauer. Überzeugen Sie sich jetzt von unseren Trittschalldämmungen und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Kunstrasen",
+                        "text": "Entdecken Sie unser vielfältiges Angebot an <a href=\"/kategorie/kunstrasen/\" title=\"Kunstrasen\">Kunstrasen</a>. Wir bieten Ihnen eine große Auswahl an hochwertigen Kunstrasen, die Ihnen eine lange Lebensdauer und höchste Qualität garantieren. Ob Sie einen robusten und strapazierfähigen Kunstrasen für Ihren Garten suchen oder einen stilvollen Kunstrasen für Ihre Terrasse, bei Wirmachenboden finden Sie garantiert das richtige Produkt. Überzeugen Sie sich jetzt von unserer Qualität und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Laminatwerkzeug & Parkettverlegewerkzeug",
+                        "text": "Verleihen Sie Ihrem Boden eine neue Optik mit unserem hochwertigen Laminat- und Parkettverlegewerkzeug. Wir bieten Ihnen eine große Auswahl an Werkzeugen, die Sie für eine einfache und sichere Verlegung Ihres Bodenbelags benötigen. Unsere Werkzeuge sind langlebig und sorgen für ein perfektes Ergebnis. Überzeugen Sie sich jetzt von unserer Qualität und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Vinylböden",
+                        "text": "Entdecken Sie unser vielfältiges Angebot an <a href=\"/kategorie/vinylboeden/\" title=\"Vinylböden\">Vinylböden</a>. Wir bieten Ihnen eine große Auswahl an hochwertigen Vinylböden, die Ihnen eine lange Lebensdauer und höchste Qualität garantieren. Ob Sie einen robusten und strapazierfähigen Bodenbelag für Ihr Zuhause suchen oder einen stilvollen Bodenbelag für Ihr Büro, bei Wirmachenboden finden Sie garantiert das richtige Produkt. Überzeugen Sie sich jetzt von unserer Qualität und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Laminat",
+                        "text": "Entdecken Sie unser vielfältiges Angebot an <a href=\"/kategorie/laminat/\" title=\"Laminat\">Laminat</a>böden. Wir bieten Ihnen eine große Auswahl an hochwertigen Laminatböden, die Ihnen eine lange Lebensdauer und höchste Qualität garantieren. Ob Sie einen robusten und strapazierfähigen Bodenbelag für Ihr Zuhause suchen oder einen stilvollen Bodenbelag für Ihr Büro, bei Wirmachenboden finden Sie garantiert das richtige Produkt. Überzeugen Sie sich jetzt von unserer Qualität und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Zubehör für Laminat & Parkett",
+                        "text": "Entdecken Sie bei Wirmachenboden das passende Zubehör für Ihre Laminat- oder Parkettböden. Von Leisten über Sockelleisten bis hin zu Reinigungsmitteln bieten wir Ihnen alles, was Sie für den perfekten Abschluss Ihrer Bodenbeläge benötigen. Überzeugen Sie sich selbst von unserer großen Auswahl an hochwertigen und langlebigen Produkten."
+                    },
+                    {
+                        "title": "Leisten",
+                        "text": "Verleihen Sie Ihren Bodenbelägen den letzten Schliff mit den passenden <a href=\"/kategorie/leisten/\" title=\"Leisten\">Leisten</a>. Bei Wirmachenboden finden Sie eine große Auswahl an Leisten in verschiedenen Materialien und Farben, die perfekt zu Ihren Bodenbelägen passen. Ob für Laminatböden, Parkettböden oder andere Bodenbeläge, wir haben die passenden Leisten für Sie."
+                    },
+                    {
+                        "title": "Parkett",
+                        "text": "Erleben Sie die natürliche Schönheit von <a href=\"/kategorie/parkett/\" title=\"Parkett\">Parkett</a>böden. Bei Wirmachenboden finden Sie eine große Auswahl an Parkettböden in verschiedenen Holzarten, Farben und Designs. Ob für Ihr Wohnzimmer, Schlafzimmer oder Büro, Parkettböden verleihen jedem Raum eine warme und gemütliche Atmosphäre. Überzeugen Sie sich selbst von unseren hochwertigen Parkettböden."
+                    },
+                    {
+                        "title": "Teppich-Zubehör bei Wirmachenboden.de",
+                        "text": "Verleihen Sie Ihren Teppichen das gewisse Extra mit hochwertigem Teppich-Zubehör. Bei Wirmachenboden.de finden Sie eine breite Auswahl an Produkten, die Ihnen dabei helfen, Ihre Teppiche in Top-Form zu halten. Von Teppichgleitschutz bis hin zu Reinigungsprodukten bieten wir Ihnen alles, was Sie benötigen, um Ihre Teppiche lange wie neu aussehen zu lassen."
+                    },
+                    {
+                        "title": "Teppichgleitschutz bei Wirmachenboden.de",
+                        "text": "Verhindern Sie unangenehme Stürze und Unfälle mit Teppichgleitschutz von Wirmachenboden.de. Unsere hochwertigen Teppichunterlagen sorgen dafür, dass Ihre Teppiche rutschfest bleiben und somit ein sicheres Laufvergnügen garantieren. Stöbern Sie in unserem Sortiment und finden Sie das perfekte Teppichgleitschutz-Produkt für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Teppiche bei Wirmachenboden.de",
+                        "text": "Entdecken Sie die Welt der Teppiche bei Wirmachenboden.de. Wir bieten Ihnen eine breite Auswahl an verschiedenen Teppichtypen, Farben und Designs. Von klassischen Teppichen bis hin zu modernen Teppichdesigns finden Sie bei uns alles, was das Herz begehrt. Lassen Sie sich von unserer Vielfalt inspirieren und finden Sie Ihren neuen Lieblingsteppich."
+                    },
+                    {
+                        "title": "Outdoor-Teppiche",
+                        "text": "Entdecken Sie unser breites Angebot an <a href=\"/kategorie/outdoor-teppiche/\" title=\"Outdoor-Teppiche\">Outdoor-Teppiche</a>n für Ihre Terrasse oder Ihren Garten. Wir bieten eine große Auswahl an robusten und langlebigen Teppichen, die den Elementen trotzen und Ihnen ein angenehmes Laufgefühl bieten. Verleihen Sie Ihrem Außenbereich mit unseren Outdoor-Teppichen den letzten Schliff."
+                    },
+                    {
+                        "title": "Fußmatten & Schmutzmatten",
+                        "text": "Schützen Sie Ihre Böden vor Schmutz und Feuchtigkeit mit unseren praktischen Fuß- und Schmutzmatten. Wir bieten Ihnen eine große Auswahl an Größen und Farben, um Ihren Eingangsbereich stilvoll und funktional zu gestalten. Bestellen Sie jetzt Ihre neue Fußmatte oder Schmutzmatte bei wirmachenboden.de."
+                    },
+                    {
+                        "title": "Kurzflorteppiche",
+                        "text": "Fügen Sie Ihrem Zuhause mit unseren kuscheligen <a href=\"/kategorie/kurzflorteppiche/\" title=\"Kurzflorteppiche\">Kurzflorteppiche</a>n eine warme und gemütliche Atmosphäre hinzu. Wir bieten Ihnen eine große Auswahl an Farben und Designs, um jedem Raum eine individuelle Note zu verleihen. Bestellen Sie jetzt Ihren neuen Kurzflorteppich bei wirmachenboden.de."
+                    },
+                    {
+                        "title": "Teppichläufer",
+                        "text": "<a href=\"/kategorie/teppichlaeufer/\" title=\"Teppichläufer\">Teppichläufer</a> sind eine grossartige Möglichkeit, Ihre Böden zu schützen und zu dekorieren. In unserem Online-Shop https://www.wirmachenboden.de/ finden Sie eine große Auswahl an Teppichläufern in verschiedenen Größen, Farben und Designs. Ob Sie einen Teppichläufer für Ihr Esszimmer, Ihr Wohnzimmer oder Ihren Flur suchen, bei uns werden Sie sicher fündig. Unsere Teppichläufer sind langlebig und einfach zu pflegen, sodass Sie lange Freude an Ihrem neuen Bodenbelag haben werden."
+                    },
+                    {
+                        "title": "Kinderteppiche",
+                        "text": "<a href=\"/kategorie/kinderteppiche/\" title=\"Kinderteppiche\">Kinderteppiche</a> sind ein wichtiger Teil jedes Kinderzimmers. Sie schützen die Füsse Ihrer Kinder vor kalten Böden und bieten gleichzeitig eine bequeme Spielfläche. In unserem Online-Shop https://www.wirmachenboden.de/ finden Sie eine große Auswahl an Kinderteppichen in verschiedenen Größen, Farben und Designs. Unsere Kinderteppiche sind weich und bequem, und dank der hochwertigen Materialien, aus denen sie hergestellt werden, langlebig und pflegeleicht. Entdecken Sie jetzt unsere Kinderteppiche und schaffen Sie Ihrem Nachwuchs ein gemütliches Zuhause."
+                    },
+                    {
+                        "title": "Vintageteppiche",
+                        "text": "<a href=\"/kategorie/vintageteppiche/\" title=\"Vintageteppiche\">Vintageteppiche</a> verleihen Ihrem Zuhause eine zeitlose Eleganz. In unserem Online-Shop https://www.wirmachenboden.de/ finden Sie eine große Auswahl an Vintageteppichen in verschiedenen Größen, Farben und Designs. Ob Sie einen Teppich im orientalischen oder im modernen Stil suchen, bei uns werden Sie fündig. Unsere Vintageteppiche sind aus hochwertigen Materialien hergestellt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt unsere Vintageteppiche und verleihen Sie Ihrem Zuhause eine besondere Note."
+                    },
+                    {
+                        "title": "Felle",
+                        "text": "Erleben Sie das natürliche Flair von <a href=\"/kategorie/felle/\" title=\"Felle\">Felle</a>n in Ihrem Zuhause. Bei wirmachenboden.de finden Sie eine breite Auswahl an hochwertigen Fellen für jeden Geschmack und Einrichtungsstil. Ob als Teppich oder als Dekoration, Felle bringen Wärme und Gemütlichkeit in jeden Raum. Entdecken Sie jetzt unser Sortiment an Felle."
+                    },
+                    {
+                        "title": "Schaffelle",
+                        "text": "<a href=\"/kategorie/schaffelle/\" title=\"Schaffelle\">Schaffelle</a> sind ein besonderes Highlight in jedem Zuhause. Als Teppich, Sitzunterlage oder als dekorative Wandbefestigung, Schaffelle verleihen jedem Raum eine natürliche und gemütliche Atmosphäre. Bei wirmachenboden.de finden Sie eine große Auswahl an hochwertigen Schaffellen, die Sie begeistern werden. Entdecken Sie jetzt unser Angebot."
+                    },
+                    {
+                        "title": "Korkböden",
+                        "text": "<a href=\"/kategorie/korkboeden/\" title=\"Korkböden\">Korkböden</a> sind eine umweltfreundliche und strapazierfähige Alternative zu traditionellen Bodenbelägen. Bei wirmachenboden.de finden Sie eine breite Auswahl an Korkböden in verschiedenen Farben und Designs. Kork ist warm und angenehm zu Fuß, außerdem schall- und wärmedämmend. Entdecken Sie jetzt unser Sortiment an Korkböden."
+                    },
+                    {
+                        "title": "Kuhfelle",
+                        "text": "Entdecken Sie die natürliche Schönheit von <a href=\"/kategorie/kuhfelle/\" title=\"Kuhfelle\">Kuhfelle</a>n in unserem Online-Shop. Wir bieten eine breite Auswahl an hochwertigen Kuhfellen, die jedem Zuhause eine warme und gemütliche Atmosphäre verleihen. Ob als Teppich oder als dekorative Decke, ein Kuhfell ist ein zeitloser Klassiker, der nie aus der Mode kommt."
+                    },
+                    {
+                        "title": "Kunstfelle",
+                        "text": "Für alle, die tierfreundlicher einrichten möchten, bieten wir eine große Auswahl an <a href=\"/kategorie/kunstfelle/\" title=\"Kunstfelle\">Kunstfelle</a>n an. Diese Felle sehen genauso schön aus wie echte Felle, sind jedoch vollständig tierfreundlich und ethisch vertretbar. Erkunden Sie unsere Auswahl an Kunstfellen in verschiedenen Farben und Designs, um den perfekten Teppich oder die perfekte Decke für Ihr Zuhause zu finden."
+                    },
+                    {
+                        "title": "Stufenmatten",
+                        "text": "Schützen Sie Ihre Stufen vor Abnutzung und geben Sie ihnen zusätzlichen Halt mit unseren <a href=\"/kategorie/stufenmatten/\" title=\"Stufenmatten\">Stufenmatten</a>. Wir bieten eine breite Auswahl an Stufenmatten in verschiedenen Größen, Farben und Materialien, um jedem Zuhause eine sichere und stilvolle Atmosphäre zu verleihen. Schauen Sie sich jetzt unsere Auswahl an Stufenmatten an und finden Sie die perfekte Lösung für Ihre Treppe."
+                    },
+                    {
+                        "title": "PVC-Bodenbeläge",
+                        "text": "Entdecken Sie die Vielfalt an hochwertigen <a href=\"/kategorie/pvc-bodenbelaege/\" title=\"PVC-Bodenbeläge\">PVC-Bodenbeläge</a>n in unserem Online-Shop. Ob für den Wohnbereich oder den gewerblichen Einsatz, unsere PVC-Bodenbeläge bieten Ihnen Langlebigkeit und Widerstandsfähigkeit. Wählen Sie aus einer Vielzahl von Designs und Farben und lassen Sie Ihren Boden in neuem Glanz erstrahlen."
+                    },
+                    {
+                        "title": "Hochflorteppiche",
+                        "text": "Fühlen Sie sich zu Hause wie auf Wolken mit unseren weichen und komfortablen <a href=\"/kategorie/hochflorteppiche/\" title=\"Hochflorteppiche\">Hochflorteppiche</a>n. Wir bieten eine breite Palette an Farben und Designs, die perfekt zu Ihrem Wohnstil passen. Unsere Hochflorteppiche sind robust und langlebig und werden ein wahrer Blickfang in Ihrem Zuhause sein."
+                    },
+                    {
+                        "title": "Wollteppiche",
+                        "text": "Erleben Sie den natürlichen Charme von <a href=\"/kategorie/wollteppiche/\" title=\"Wollteppiche\">Wollteppiche</a>n in unserem Online-Shop. Unsere Wollteppiche sind weich und warm und bieten eine angenehme Atmosphäre in Ihrem Zuhause. Wählen Sie aus einer Vielzahl von Farben und Designs und bringen Sie ein Stück Natur in Ihr Zuhause."
+                    },
+                    {
+                        "title": "Teppichboden - Meterware",
+                        "text": "Entdecken Sie bei Wirmachenboden die Vielfalt an Teppichböden in Meterware. Ob für Ihr Wohnzimmer, Schlafzimmer oder andere Räume, hier finden Sie den passenden Teppichboden für jeden Bedarf. Wählen Sie aus unserem großen Sortiment an Materialien, Farben und Designs. Wir bieten Ihnen eine schnelle und zuverlässige Lieferung direkt zu Ihnen nach Hause."
+                    },
+                    {
+                        "title": "Moderne Teppiche",
+                        "text": "Erneuern Sie Ihre Wohnräume mit modernen Teppichen von Wirmachenboden. Unsere Teppiche sind aus hochwertigen Materialien hergestellt und in verschiedenen Farben und Designs erhältlich. Egal, ob Sie einen Teppich für Ihr Wohnzimmer, Schlafzimmer oder einen anderen Raum suchen, bei uns finden Sie garantiert das Richtige. Überzeugen Sie sich selbst von unserer großen Auswahl."
+                    },
+                    {
+                        "title": "Teppichfliesen",
+                        "text": "Erstellen Sie Ihren eigenen Teppichboden mit <a href=\"/kategorie/teppichfliesen/\" title=\"Teppichfliesen\">Teppichfliesen</a> von Wirmachenboden. Unsere Teppichfliesen sind einfach zu verlegen und können individuell angepasst werden. Wählen Sie aus einer Vielzahl an Farben, Designs und Materialien und erstellen Sie Ihren eigenen Teppichboden ganz nach Ihren Wünschen. Entdecken Sie jetzt die Vielfalt an Teppichfliesen bei Wirmachenboden."
+                    },
+                    {
+                        "title": "Sisalteppiche",
+                        "text": "Entdecken Sie bei WirMachenBoden eine große Auswahl an hochwertigen <a href=\"/kategorie/sisalteppiche/\" title=\"Sisalteppiche\">Sisalteppiche</a>n. Unsere Sisalteppiche sind robust, langlebig und pflegeleicht. Sie bringen eine natürliche Ausstrahlung in Ihr Zuhause und sorgen für eine warme und gemütliche Atmosphäre. Ob für Ihr Wohnzimmer, Schlafzimmer oder Büro, bei uns finden Sie garantiert den passenden Sisalteppich für Ihren Bedarf. Stöbern Sie jetzt durch unser umfangreiches Sortiment und finden Sie Ihren neuen Lieblingsteppich."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Der Shop für Bodenbeläge",
+            "metaDescription": "Bodenbeläge Shop - Hier wird eine große Auswahl an verschiedenen Bodenbelägen für jeden Geschmack und jede Anforderung angeboten.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Hersteller für Bodenbeläge im Überblick",
+            "metaDescription": "Eine Übersicht aller Hersteller für Bodenbeläge wie Laminat, Parkett und Vinylböden. Renommierte Hersteller und Produkte zu top Preisen. Produkte auf Lager.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Der Shop für Bodenbeläge",
-      "metaDescription": "Bodenbeläge Shop - Hier wird eine große Auswahl an verschiedenen Bodenbelägen für jeden Geschmack und jede Anforderung angeboten.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Alle Hersteller für Bodenbeläge im Überblick",
-      "metaDescription": "Eine Übersicht aller Hersteller für Bodenbeläge wie Laminat, Parkett und Vinylböden. Renommierte Hersteller und Produkte zu top Preisen. Produkte auf Lager.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT",
-    "defaultMetaDescription": "Bodenbeläge in höchster Qualität. $PRODUKT von $HERSTELLER ist die erste Wahl für Ihren Boden. Jetzt kaufen und $KATEGORIE ansehen.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "7592249",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT",
+        "defaultMetaDescription": "Bodenbeläge in höchster Qualität. $PRODUKT von $HERSTELLER ist die erste Wahl für Ihren Boden. Jetzt kaufen und $KATEGORIE ansehen.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Click-Vinylboden Landhausdiele Eiche Paris Braun dunkel von Sonstige",
-              "text": "<p class=\"justify\">Entdecken Sie den hochwertigen Click-Vinylboden Landhausdiele Eiche Paris Braun dunkel der Marke Sonstige (SKU: 7592249) für ein stilvolles und modernes Ambiente in Ihrem Zuhause. Dieser dekorative Design-Vinylboden ist in der trendigen Landhausdielenoptik gestaltet und verschönert jeden Wohnraum, einschließlich Küche und Bad. Dank der geringen Aufbauhöhe von 3,5 mm ist dieser Bodenbelag besonders renovierungsfreundlich und wird zum optischen Highlight in Ihrer Wohnung.</p><p class=\"justify\">Der Click-Vinylboden Eiche Paris Braun dunkel ist biegesteifer als Vorgängermodelle und eignet sich hervorragend für Räume mit Wechseltemperaturen und Fußbodenheizungen (Warmwasser). Er ist in der Kategorie Vinylböden, Teil der Hauptkategorien Wohnen und Bodenbeläge sowie Laminat, Parkett & Vinylböden, zu finden. Mit einer GTIN13 von 4260603930593 ist die Qualität dieses Produkts gewährleistet.</p><p class=\"justify\">Dieses Produkt wird Ihnen in einer Packung mit 2,635 m² geliefert und ermöglicht eine einfache und schnelle Verlegung dank der praktischen Click-Technologie. Schauen Sie sich die hochauflösenden Bilder auf unserer Website an, um einen Eindruck von der stilvollen Optik des Click-Vinylbodens Landhausdiele Eiche Paris Braun dunkel zu erhalten. Die attraktive Optik und die hohe Qualität sprechen für sich – und das zum unschlagbaren Preis von nur 52,67 €!</p><p class=\"justify\">Profitieren Sie von der hohen Zufriedenheit unserer zahlreichen Kunden, die dieses Produkt mit 4 Sternen bei über 440 Bewertungen positiv bewertet haben. Überzeugen Sie sich selbst von der Qualität und dem großartigen Preis-Leistungs-Verhältnis des Click-Vinylbodens Landhausdiele Eiche Paris Braun dunkel.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7676588",
-        "seo": {
-          "texts": [
-            {
-              "title": "Teppich Smuq Copenhagen 67 cm x 120 cm",
-              "text": "<p class=\"justify\">Der Teppich Smuq Copenhagen 67 cm x 120 cm ist ein attraktiver und vielseitiger Teppichläufer, der zu den hochwertigen Produkten der Marke Sonstige gehört. Mit seiner traditionellen Gestaltung verleiht er jedem Raum seinen eigenen Stil und bietet zugleich eine praktische Lösung zur Bodenschutz und Verschönerung. Dank seiner UV-Beständigkeit eignet sich dieser Teppich sowohl für den Innen- als auch für den Außenbereich.</p><p class=\"justify\">Der Teppich zeichnet sich durch seine flexible Rückseite und gewebte Struktur aus, die eine einfache Integration in verschiedene Umgebungen ermöglicht. Er kann problemlos an Holz-, Fliesen- und Betonböden angepasst werden und ist auch für Fußbodenheizungen geeignet. Die dünne, rutschfeste Oberfläche sorgt für Sicherheit und Langlebigkeit und macht den Teppich zu einem recyclebaren Produkt. Der Teppichläufer hat eine Größe von 67 cm x 120 cm und besteht aus 100 % Vinyl.</p><p class=\"justify\">Mit seiner einzigartigen Erscheinung kann der Teppich Smuq Copenhagen sowohl im Innenbereich wie Wohnzimmer, Küche oder Flur, als auch im Außenbereich, beispielsweise auf Terrasse oder Balkon, verwendet werden. Dabei fungiert er nicht nur als rutschfeste Unterlage, sondern wertet auch das Erscheinungsbild des Raumes auf, indem er zum echten Hingucker wird.</p><p class=\"justify\">Erhältlich zum Preis von 29,99 Euro, ist der Teppich Smuq Copenhagen ein ausgezeichnetes Produkt, das Design, Funktion und Qualität in sich vereint. Die hervorragenden Kundenbewertungen, die diesem Teppichläufer 5 von 5 Sternen verleihen, sowie die hohe Anzahl von 294 Rezensionen, sprechen für die Zufriedenheit der Nutzer und die Beliebtheit des Produkts.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "4428546",
-        "seo": {
-          "texts": [
-            {
-              "title": "OBI Sockelleiste Historic Pine 40 mm x 20 mm x 2.600 mm",
-              "text": "<p class=\"justify\">Die hochwertige OBI Sockelleiste Historic Pine in den Maßen 40 mm x 20 mm x 2.600 mm schafft eine stilvolle Verbindung von Boden und Wand und trägt so dazu bei, Ihren Wohnraum optisch aufzuwerten. Mit dem einzigartigen Design und der akkuraten Verarbeitung der Sockelleiste Historic Pine aus dem Hause OBI setzen Sie ein Statement in Ihrem Zuhause, das sowohl funktionell als auch ästhetisch ansprechend ist.</p><p class=\"justify\">Die Sockelleiste ist aus robustem Material gefertigt und passt ideal zu Laminat-, Parkett- und Vinylböden. Durch den Einsatz von Leistenclips lässt sich die Fußleiste einfach und sauber montieren, was den Aufwand auf ein Minimum reduziert. Mit einer Länge von 2,6 Metern eignet sich die Sockelleiste perfekt für den Einsatz in Ihrem Wohnbereich, egal ob im Wohnzimmer, Schlafzimmer oder Flur. Falls Ihnen eine andere Optik oder Farbe vorschwebt, bietet OBI auch diverse Alternativen bei den zur Verfügung stehenden Materialien und Farben.</p><p class=\"justify\">Ein zusätzlicher Vorteil dieser Sockelleiste ist, dass sie, abgesehen von ihrem attraktiven Design, einen hervorragenden Schutz für Ihre Wände gewährleistet. Die hochwertige Verarbeitung und die Verwendung von langlebigen Materialien sorgen dafür, dass Ihre Wände vor Stoß- und Kratzschäden geschützt sind. Das Resultat ist ein harmonisches Gesamtbild, das sowohl praktisch als auch optisch überzeugt.</p><p class=\"justify\">Mit der OBI Sockelleiste Historic Pine treffen Sie eine exzellente Entscheidung. Nicht nur die hohe Qualität und das ansprechende Design sprechen für sich, auch die einfache Montage sowie der Schutz der Wände machen die Sockelleiste zu einer lohnenden Investition. Lassen Sie sich von der OBI Sockelleiste Historic Pine begeistern und profitieren Sie gleichzeitig von einer optischen Aufwertung Ihres Wohnraums sowie einem langanhaltenden Schutz Ihrer Wände.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2798353",
-        "seo": {
-          "texts": [
-            {
-              "title": "Click-Vinylboden Dakota Pine - Sonstige",
-              "text": "<p class=\"justify\">Verwandeln Sie Ihr Zuhause mit dem Click-Vinylboden Dakota Pine von Sonstige in eine Wohlfühloase. Dieser hochwertige Vinylboden in authentischer Holzoptik verleiht jedem Raum eine natürliche und elegante Atmosphäre. Durch seine exzellente Nachbildung eines echten Holzbodens verbindet er die positiven Eigenschaften eines künstlichen Bodenbelags mit dem ansprechenden Aussehen eines Holzbodens.</p><p class=\"justify\">Der Dakota Pine Vinylboden ist mit der Nutzungsklasse 23/31 ausgezeichnet, sodass er sowohl in Wohnräumen mit hoher als auch in gewerblichen Räumen mit geringer Nutzung eingesetzt werden kann. Er eignet sich auch hervorragend für Räume mit höherer Feuchtigkeit wie Badezimmer oder Keller, dank seines Feuchtschutzes. Zudem kann dieser Vinylboden problemlos auf einer Fußbodenheizung verlegt werden.</p><p class=\"justify\">Das praktische Klicksystem ermöglicht eine flexible und unkomplizierte Verlegung des Bodens. Im Gegensatz zu verklebten Böden kann der Dakota Pine Vinylboden mit Klicksystem direkt nach der Verlegung betreten werden. Bei Bedarf können einzelne Paneele einfach ausgetauscht werden. Die Pflege des Vinylbodens gestaltet sich ebenfalls einfach und hygienisch, da Schmutz an der Oberfläche bleibt und sich nicht im Material absetzt.</p><p class=\"justify\">Dieser pflegeleichte Designboden ist die ideale Lösung für Allergiker und Haushalte mit Tieren, da er hygienisch und leicht zu reinigen ist. In einem Paket sind 1,735 m² des Click-Vinylbodens Dakota Pine enthalten. Entdecken Sie die Vorteile dieses ansprechenden und praktischen Bodenbelags und verwandeln Sie Ihr Zuhause in eine stilvolle und gemütliche Wohnlandschaft.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1040559",
-        "seo": {
-          "texts": [
-            {
-              "title": "Sockelleiste Kiefer 23 mm x 6 mm Länge 2400 mm",
-              "text": "<p class=\"justify\">Die Sockelleiste Kiefer 23 mm x 6 mm Länge 2400 mm ist ein hochwertiges Produkt der Marke 'Sonstige'. Die Leiste eignet sich hervorragend zur stilvollen Gestaltung Ihrer Wohnräume und bietet Ihnen eine attraktive und praktische Lösung für die Dekoration von Bodenbelägen. Ein unverwechselbares Merkmal dieser Sockelleiste ist das natürliche und zeitlose Design in Kiefer und die hochwertige Verarbeitung, die für Langlebigkeit und Stabilität sorgt.</p><p class=\"justify\">Mit einer Länge von 2400 mm und einer Breite von 23 mm ist die Sockelleiste für verschiedene Raumgrößen geeignet und lässt sich problemlos anpassen. Die Leiste ist in verschiedenen Größen und Materialausführungen erhältlich, so dass für jeden Geschmack und Einrichtungsstil die passende Option vorhanden ist. Das Produkt ist für die Verwendung mit Laminat, Parkett und Vinylböden konzipiert und bietet eine hervorragende Ergänzung für Ihre Bodengestaltung.</p><p class=\"justify\">Die Montage der Sockelleiste Kiefer 23 mm x 6 mm Länge 2400 mm ist einfach und unkompliziert. Mit einer Bewertung von 4 Sternen und 250 Rezensionen von zufriedenen Kunden können Sie sich auf die Qualität des Produkts verlassen. Die Leiste hat einen attraktiven Preis von 3,99 € und bietet ein hervorragendes Preis-Leistungs-Verhältnis.</p><p class=\"justify\">Abschließend ist die Sockelleiste Kiefer 23 mm x 6 mm Länge 2400 mm eine erstklassige Wahl für alle, die ihre Wohnräume stilvoll und praktisch gestalten möchten. Die Leiste bietet eine perfekte Kombination aus Design, Qualität und Preis und ist eine ideale Ergänzung für jeden Raum. Bringen Sie Ihren Boden zu einem gekonnten Abschluss und schaffen im Handumdrehen ein einheitliches, harmonisches Ambiente in Ihren Räumen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "4907853",
-        "seo": {
-          "texts": [
-            {
-              "title": "Wolfcraft Laminat Einpasser - Das perfekte Werkzeug für Laminat- und Parkettverlegung",
-              "text": "<p class=\"justify\">Der Wolfcraft Laminat Einpasser ist das ideale Werkzeug für alle Heimwerker, die ihre Laminat- oder Parkettböden selbst verlegen möchten. Dieses praktische Hilfsmittel aus dem Hause Wolfcraft erleichtert Ihnen das exakte Ausmessen der letzten Laminatreihe und sorgt für eine professionelle Verlegung. Ausgestattet mit einer extrabreiten Schiene bietet der Einpasser eine stabile Auflage für Ihre Laminatdielen und ermöglicht Ihnen somit präzise Arbeiten.</p><p class=\"justify\">Zudem ist der Wolfcraft Laminat Einpasser flexibel einstellbar und kann verschiedene Abmessungen bis zu 235 mm anpassen. Dank des integrierten Gleiträddchens wird Ihnen die optimale Anpassung des Wandverlaufs ermöglicht. Der mitgelieferte Stift zum Anzeichnen wird automatisch durch einen O-Ring unten gehalten – somit ist ein problemloses und effizientes Anzeichnen garantiert. Sogar saubere Linien stellen mit diesem Werkzeug keine Herausforderung mehr dar!</p><p class=\"justify\">Der Wolfcraft Laminat Einpasser überzeugt nicht nur durch seine Funktionalität, sondern auch durch seine qualitative Verarbeitung und Langlebigkeit. Als Teil der Kategorie \"Laminatwerkzeug & Parkettverlegewerkzeug\" ist dieses Produkt ein unverzichtbarer Helfer für all jene, die Wert auf eine präzise und hochwertige Bodenverlegung legen. Egal ob Anfänger oder erfahrener Handwerker, mit dem Wolfcraft Laminat Einpasser erreichen Sie stets professionelle Ergebnisse.</p><p class=\"justify\">Entscheiden Sie sich für dieses hochwertige Produkt und profitieren Sie von den Vorteilen des Wolfcraft Laminat Einpassers. Überzeugen Sie sich selbst von der Qualität und Präzision dieses nützlichen Werkzeuges und erleichtern Sie sich die Arbeit bei der Verlegung von Laminat, Parkett oder Vinylböden. Werden auch Sie zum Profi-Handwerker mit dem Wolfcraft Laminat Einpasser.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2413045",
-        "seo": {
-          "texts": [
-            {
-              "title": "Masterfloor Laminatboden Kiefer Cottage Antik 8 mm",
-              "text": "<p class=\"justify\">Der Masterfloor Laminatboden Kiefer Cottage Antik 8 mm ist ein moderner und edler Bodenbelag, der durch seine rustikale Kieferoptik besticht. Er eignet sich perfekt für den Einsatz in Wohnräumen sowie gewerblichen Räumen mit durchschnittlicher Nutzung - beispielsweise in Büros. Die ansprechende Optik und das edle Dekor werten jeden Raum optisch auf und verleihen ihm ein besonderes Flair.</p><p class=\"justify\">Die herausragende Kiefer-Nachbildung ist kaum von einem echten Naturboden zu unterscheiden. Der mittlere Farbton sorgt für einen edlen Touch, während die rustikale Optik eine gemütliche Atmosphäre schafft. Das Laminat lässt sich problemlos mit verschiedenen Stilrichtungen kombinieren. Dank der Fugen bieten die Dielen zusätzlichen Schutz vor Abnutzung und sorgen so für eine längere Haltbarkeit.</p><p class=\"justify\">Die Klickmechanik des Masterfloor Laminatbodens macht das Verlegen schnell und sauber, ohne den Einsatz von Klebstoff. Dadurch ist das Laminat auch für Einsteiger leicht zu handhaben. Die Nutzungsklasse NKL 23/32 zeigt, dass der Bodenbelag sowohl in Wohnräumen mit hoher Nutzung als auch in gewerblichen Räumen mit durchschnittlicher Nutzung einsetzbar ist. Zudem ist das Laminat für die Verwendung mit Fußbodenheizungen geeignet.</p><p class=\"justify\">Mit einer Gesamtfläche von 2,402 m² pro Paket bietet der Masterfloor Laminatboden Kiefer Cottage Antik 8 mm ausreichend Material, um auch größere Räume zu gestalten. Die hohe Produktqualität sowie die zahlreichen positiven Bewertungen und die 4-Sterne-Bewertung zeigen, dass Kunden mit diesem Laminatboden sehr zufrieden sind. Entscheiden Sie sich noch heute für den Masterfloor Laminatboden Kiefer Cottage Antik 8 mm und verwandeln Sie Ihren Wohnraum mit diesem stilvollen und langlebigen Bodenbelag.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6508428",
-        "seo": {
-          "texts": [
-            {
-              "title": "Egger Laminatboden Basic Eiche Antik Natur 6 x 193 x 1292 mm: Stilvoll und pflegeleicht",
-              "text": "<p class=\"justify\">Der Egger Laminatboden Basic Eiche Antik Natur 6 x 193 x 1292 mm verbindet Ästhetik mit Funktionalität und eignet sich hervorragend für Wohnräume, Büros oder gewerbliche Räume. Die ansprechende Holzoptik der Eiche Antik Natur macht diesen Bodenbelag zu einer stilvollen und zeitlosen Wahl für verschiedene Einrichtungsstile.</p><p class=\"justify\">Dank der präzisen Verarbeitung und der naturgetreuen Holznachbildung ist der Egger Laminatboden kaum von einem echten Holzboden zu unterscheiden. Die warme, natürliche Farbgebung verleiht Ihrem Raum eine behagliche Atmosphäre, die zu vielen Farbkonzepten und Stilrichtungen passt. Die fugenfreie Verarbeitung sorgt dabei für ein ruhiges, harmonisches Gesamtbild. Die damit verbundenen Vorteile sind nicht nur optischer Natur: Fugenfreie Böden sind besonders hygienisch, da sich weniger Staub und Schmutz ansammelt.</p><p class=\"justify\">Die Verlegung des Laminatbodens gestaltet sich dank des innovativen Klicksystems unkompliziert und sauber – auf Klebstoff kann verzichtet werden. Das System sorgt für einen festen Verbund der einzelnen Paneele und ermöglicht eine präzise, passgenaue Verlegung. Mit einer Nutzungsklasse von NKL 23/31 eignet sich der Egger Laminatboden für den Einsatz in Wohnräumen mit hoher Nutzung und gewerblichen Räumen mit geringer Nutzung. Zusätzlich ist er bestens für die Verlegung auf Fußbodenheizungen geeignet.</p><p class=\"justify\">Mit dem Egger Laminatboden Basic Eiche Antik Natur 6 x 193 x 1292 mm setzen Sie auf ein Produkt, das durch seine ausdrucksstarke Optik und herausragende Qualität überzeugt. Es vereint Langlebigkeit, Stil und Komfort und stellt somit eine Investition in ein langlebiges, ästhetisches Wohnambiente dar.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8777583",
-        "seo": {
-          "texts": [
-            {
-              "title": "Designboden Landhausdiele Binyl Pro Eiche Major Oak hell von Sonstige",
-              "text": "<p class=\"justify\">Der Designboden Landhausdiele Binyl Pro Eiche Major Oak hell aus der Marke Sonstige ist die perfekte Wahl für Ihre Wohn- und Gewerbeflächen. Dieser hochwertige Laminatboden verbindet Funktionalität und Ästhetik und eignet sich dank seiner Nutzungsklasse 23/33 hervorragend für viel genutzte Bereiche im gewerblichen Umfeld. Die moderne Landhausdielenoptik verleiht Ihrer Einrichtung eine zeitlose Eleganz, während die O.R.C.A. Moisture Defense Technology dem Boden eine optimale Feuchtigkeitsbeständigkeit verleiht.</p><p class=\"justify\">Der Binyl Pro Eiche Major Oak hell zeichnet sich durch seine robuste Oberfläche mit einer Abriebklasse von AC5 (EN 13329) aus, die Kratzern und Beanspruchungen des täglichen Lebens hervorragend standhält. So bleibt Ihr Laminatboden auch bei hoher Beanspruchung lange Zeit in einwandfreiem Zustand. Mit einer Dielenstärke von ca. 8 mm und einem Paketinhalt von 2,22 m² ist der Designboden ideal für verschiedene Raumgrößen und Raumtypen geeignet.</p><p class=\"justify\">Neben dem hohen Nutzwert überzeugt der Binyl Pro Eiche Major Oak hell Designboden auch durch seine einfache Pflege und Reinigung. Die feuchtigkeitsabweisende Technologie schützt Ihren Boden sogar vor kleineren Wasserschäden und verschütteten Getränken, sodass Sie sich keine Sorgen mehr um Ihren Bodenbelag machen müssen. Damit ist dieser Laminatboden die ideale Wahl für ein sorgenfreies Wohnen und Arbeiten.</p><p class=\"justify\">Insgesamt ist der Designboden Landhausdiele Binyl Pro Eiche Major Oak hell von Sonstige eine ausgezeichnete Investition in die Schönheit und Langlebigkeit Ihrer Räume. Die natürliche Eichenholzoptik und die qualitativ hochwertige Verarbeitung machen diesen Laminatboden zur ersten Wahl für anspruchsvolle Kunden, die auf der Suche nach einem stilvollen, funktionalen und langlebigen Bodenbelag sind.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "3510898",
-        "seo": {
-          "texts": [
-            {
-              "title": "Design-Vinylboden Kiefer Country Landhausdiele von Sonstige",
-              "text": "<p class=\"justify\">Entdecken Sie den Design-Vinylboden Kiefer Country Landhausdiele von Sonstige, der sich durch seine natürliche Optik und hochwertige Oberfläche auszeichnet. Mit der SKU 3510898 und der GTIN13 9006947073955 gehört dieser Bodenbelag zur Kategorie Vinylböden und ist ein echter Blickfang für jeden Wohnraum. Dank seiner authentischen Maserung ist er kaum von einem echten Holzboden zu unterscheiden und passt perfekt zu unterschiedlichen Einrichtungsstilen.</p><p class=\"justify\">Der robuste und pflegeleichte Boden ist in massiver Click-Ausführung erhältlich und kann einfach und leimlos verlegt werden. Dadurch eignet er sich ideal für Böden mit Fußbodenheizung, insbesondere für Niedrigtemperatur-Warmwassersysteme. Durch seine wasserabweisende Oberfläche ist der Design-Vinylboden Kiefer Country Landhausdiele auch für den Einsatz in Küche und Bad bestens geeignet.</p><p class=\"justify\">Die hochwertige Verarbeitung des Vinylbodens sorgt für eine besonders strapazierfähige Oberfläche, die auch höheren Belastungen problemlos standhält. Mit einer Bewertung von 4 Sternen und 309 Kundenrezensionen hat der Design-Vinylboden Kiefer Country Landhausdiele viele zufriedene Kunden von seiner Qualität und Optik überzeugt. Wenn Sie auf der Suche nach einem langlebigen, hochwertigen und stilvollen Bodenbelag sind, ist dieser Vinylboden eine ausgezeichnete Wahl.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6222087",
-        "seo": {
-          "texts": [
-            {
-              "title": "Kaindl Laminatboden Masterfloor Aqualine XL 8 mm Beton Opalgrey",
-              "text": "<p class=\"justify\">Der Kaindl Laminatboden Masterfloor Aqualine XL 8 mm Beton Opalgrey ist ein hochwertiges Produkt der Marke Kaindl, das Ihrem Zuhause oder Büro eine moderne und stilvolle Optik verleiht. Mit der Nutzungsklasse 33 ist dieser Laminatboden besonders langlebig und eignet sich daher hervorragend für stark beanspruchte Bereiche wie Gewerberäume oder Arbeitszimmer.</p><p class=\"justify\">Die ansprechende Beton-Optik in Opalgrey verleiht dem Laminatboden ein edles und authentisches Aussehen, das sowohl in modernen als auch in klassischen Einrichtungsstilen hervorragend zur Geltung kommt. Die sorgfältig gefertigten Dielen vermitteln einen rustikalen Look durch die Fugen, die jede Diele betonen und zusätzlichen Schutz vor Abnutzung bieten, was die Lebensdauer des Laminats erhöht.</p><p class=\"justify\">Die Verlegung des Kaindl Laminatboden Masterfloor Aqualine XL 8 mm Beton Opalgrey ist mühelos und zeitsparend. Mit der praktischen Klickverbindung lässt sich der Boden ohne den Einsatz von Klebstoff verlegen, wodurch auch Anfänger im Handumdrehen erfolgreich sind. Zudem kann der Laminatboden problemlos auf einer Fußbodenheizung verlegt werden, was zusätzlichen Komfort bietet.</p><p class=\"justify\">Mit einer Fläche von 2,546 m² pro Paket und einem attraktiven Preis bietet der Kaindl Laminatboden Masterfloor Aqualine XL 8 mm Beton Opalgrey ein hervorragendes Preis-Leistungs-Verhältnis. Die zahlreichen positiven Bewertungen und die 5-Sterne-Bewertung bestätigen die hohe Zufriedenheit der Kunden mit diesem Laminatboden. Entscheiden Sie sich für den Kaindl Laminatboden Masterfloor Aqualine XL 8 mm Beton Opalgrey und genießen Sie einen edlen und langlebigen Bodenbelag, der Ihrem Raum das gewisse Etwas verleiht.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5833926",
-        "seo": {
-          "texts": [
-            {
-              "title": "System 11 Heizungsrohrverkleidung Weiß 107mm x 45mm Länge 2000mm - Sonstige",
-              "text": "<p class=\"justify\">Die System 11 Heizungsrohrverkleidung in Weiß, mit den Maßen 107mm x 45mm und einer Länge von 2000mm, ist das perfekte Produkt, um den Übergang des Heizungsrohrs in den Boden elegant und harmonisch zu gestalten. Die Verkleidung passt optimal zum System 11 und sorgt für ein einheitliches Raumgefühl in jedem Wohnbereich. Hergestellt von der Marke \"Sonstige\", steht die Heizungsrohrverkleidung für Qualität und Langlebigkeit.</p><p class=\"justify\">Sie gehört zur Kategorie \"Leisten\" und kann in verschiedenen Bereichen wie Wohnen, Bodenbeläge, Laminat, Parkett und Vinylböden eingesetzt werden. Die Heizungsrohrverkleidung ist nicht nur funktional, sondern auch ästhetisch ansprechend und fügt sich perfekt in das gesamte Raumkonzept ein. Mit der GTIN13 4004616019933 und der SKU 5833926 ist dieses Produkt einzigartig und leicht identifizierbar.</p><p class=\"justify\">Die positive Resonanz der Kunden spricht für sich: Mit einer durchschnittlichen Bewertung von 5 Sternen und insgesamt 139 Rezensionen, zeigt die System 11 Heizungsrohrverkleidung, dass sie den Anforderungen moderner Raumgestaltung entspricht. Darüber hinaus ist die Verkleidung preislich attraktiv, mit einem Preis von 24,99 €, der eine Investition in diese Verkleidungslösung zur Verbesserung Ihres Wohnambientes lohnenswert macht.</p><p class=\"justify\">Zusammenfassend ist die System 11 Heizungsrohrverkleidung Weiß 107mm x 45mm Länge 2000mm von Sonstige eine hervorragende Wahl für all jene, die eine stilvolle und funktionale Lösung zur Abdeckung von Heizungsrohren suchen. Steigern Sie das Raumgefühl in Ihrem Zuhause und schaffen Sie eine harmonische Atmosphäre mit dieser hochwertigen Heizungsrohrverkleidung.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6615496",
-        "seo": {
-          "texts": [
-            {
-              "title": "Laminatboden Comfort Pinie Sea Pine Hell 7 mm",
-              "text": "<p class=\"justify\">Der Laminatboden Comfort Pinie Sea Pine Hell 7 mm ist ein hochwertiger, heller und neutraler Bodenbelag, der sowohl für Wohnräume als auch Büros oder gewerbliche Räume geeignet ist. Die Marke Comfort steht für Qualität und ansprechendes Design, wodurch dieser Laminatboden Ihrem Wohnraum einen besonderen, modernen Look verleiht.</p><p class=\"justify\">Dieser Laminatboden überzeugt mit einem edlen und zeitgemäßen Pinien-Dekor, das durch die typischen Maserungen und charakteristischen Strukturen besonders authentisch wirkt. Dabei ist die Holznachbildung kaum von einem echten Holzboden zu unterscheiden. Die helle Farbgebung und die abwechslungsreiche 3-Stab-Optik sorgen für ein ansprechendes Gesamtbild und lassen sich mit nahezu jeder Stilrichtung kombinieren.</p><p class=\"justify\">Das Klick-System des Laminatbodens ermöglicht eine einfache und schnelle Verlegung ohne den Einsatz von Leim. Dieses System ist sowohl an der Kopf- als auch an der Längsseite der Paneelen angebracht und sorgt für umfassenden Halt. So gelingt auch Anfängern eine unkomplizierte Verlegung des Bodenlaminats.</p><p class=\"justify\">Mit der Nutzungsklasse 23/31 eignet sich der Laminatboden für Wohnräume mit hoher sowie für gewerbliche Räume mit geringer Nutzung. Daher ist der Einsatz in einem Büro, Gäste- oder Hotelzimmer problemlos möglich. Zudem ist das Holzlaminat für die Nutzung auf Fußbodenheizungen geeignet.</p><p class=\"justify\">Die Reinigung des Laminatbodens Comfort Pinie Sea Pine Hell 7 mm gestaltet sich besonders einfach. Er kann ohne Probleme mit einem Staubsauger oder einem leicht feuchten Wischmopp gereinigt werden. Das Paket beinhaltet 2,135 m² des Laminatbodens in Pinien-Optik mit den Maßen 19,3 cm x 138,3 cm. Mit einem Preis von 19,19 € pro Paket ist das Produkt zudem sehr preiswert für seine Qualität. Dank einer hohen Kundenbewertung von 4 Sternen aus 84 Rezensionen können Sie sicher sein, dass dieser Laminatboden eine hervorragende Wahl für Ihre Bedürfnisse ist.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8836900",
-        "seo": {
-          "texts": [
-            {
-              "title": "Selit Ökolit® Holzfaser Parkett- und Laminatunterlage 5 mm 7 m²: Lärmreduzierung und nachhaltige Trittschalldämmung",
-              "text": "<p class=\"justify\">Die Selit Ökolit® Holzfaser Parkett- und Laminatunterlage ist eine hochwertige Lösung für die schwimmende Verlegung von Parkett und Laminat auf Holzuntergründen. Sie ist 5 mm stark und bietet eine hervorragende Trittschallreduktion von bis zu 19 dB, was zu einer angenehmeren und leiseren Raumakustik beiträgt. Mit einer Fläche von 7 m² pro Paket eignet sich dieses Produkt ideal für Renovierungs- und Umbauprojekte.</p><p class=\"justify\">Neben der akustischen Isolierung bietet die Ökolit® Holzfaser Laminatunterlage auch eine gute Wärmedämmung und ist deshalb geeignet für Räume mit Fußbodenheizung. Die Dauerhafte Druckfestigkeit beträgt 25 kPa und die Dynamische Druckfestigkeit 100.000 Zyklen, was bedeutet, dass die Unterlage auch unter ständiger Belastung und hoher Beanspruchung eine hervorragende Leistung erbringt. Die Punktuelle Ausgleichsfähigkeit (PC) von bis zu 1,0 mm sorgt dafür, dass Unebenheiten im Untergrund effektiv ausgeglichen werden.</p><p class=\"justify\">Die Selit Ökolit® Holzfaser Parkett- und Laminatunterlage ist aus nachwachsenden Rohstoffen hergestellt und unterstützt damit ein umweltbewusstes Renovieren. Sie ist optimal als Zwischenlage bei vorhandenen Holzuntergründen, wie zum Beispiel alten Holzdielenböden. Zudem ist sie stoßfest (RLB: ≥ 90 cm) und schützt den Nutzboden vor Beschädigungen, die beim Begehen oder durch schwere Möbelstücke entstehen können.</p><p class=\"justify\">Die Parkett- und Laminatunterlage von Selit besticht durch ihre hervorragenden technischen Eigenschaften, wie die Verträglichkeit mit Fußbodenheizung, die punktuelle Ausgleichsfähigkeit und die ausgezeichnete Trittschallminderung. Mit der Ökolit® Holzfaser Unterlage entscheiden Sie sich für eine nachhaltige Lösung zur Verbesserung Ihres Wohnkomforts. Die Laminatunterlage zeichnet sich durch eine hohe Langlebigkeit und Qualität aus und ist eine ideale Wahl für Ihr Zuhause.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9481870",
-        "seo": {
-          "texts": [
-            {
-              "title": "Living by Haro Parkett Landhausdiele 2V Eiche Nevada strukturiert Naturöl",
-              "text": "<p class=\"justify\">Entdecken Sie das Living by Haro Parkett Landhausdiele 2V Eiche Nevada strukturiert Naturöl, einen hochwertigen Bodenbelag der Marke Living by Haro. Mit seiner ansprechenden Optik in Landhausdielen-Design und der Eiche Nevada-Struktur ist dieser Parkettboden die perfekte Ergänzung für Ihr Zuhause oder Büro.</p><p class=\"justify\">Die natürliche Farbgebung und Struktur dieses Parkettbodens lassen sich mit Möbeln unterschiedlicher Stilrichtungen harmonisch kombinieren. Die 2V-Fugen sorgen für ein rustikaleres Gesamtbild und betonen jede einzelne Diele. Dank der geölten Oberfläche wirkt der Boden besonders natürlich und bleibt dabei unkompliziert in der Pflege.</p><p class=\"justify\">Der Living by Haro Parkett Landhausdiele 2V Eiche Nevada strukturiert Naturöl ist wohnfertig behandelt und damit sofort verlegbar. Die Dielen haben eine Stärke von 12 mm und eine Nutzschicht von 2,5 mm aus echtem Holz. Bei Bedarf kann diese Nutzschicht auch nachträglich abgeschliffen werden. Die Fugen schützen die Kanten der Dielen vor Abnutzung und tragen so zu einer längeren Haltbarkeit des Bodenbelags bei.</p><p class=\"justify\">Kleinere Kratzer und Abnutzungen lassen sich im Vergleich zu einem lackierten Parkett leichter ausbessern. Jedes Paket besteht aus 3,56 m² des Parkettbodenbelags in Landhausdielenoptik, sodass Sie die perfekte Menge für Ihr Projekt kaufen können. Mit einer hohen Bewertung von 4 Sternen und 325 Kundenbewertungen bestätigt sich die Qualität dieses stilvollen Bodenbelags.</p><p class=\"justify\">Werten Sie Ihr Wohn- oder Arbeitsumfeld mit dem Living by Haro Parkett Landhausdiele 2V Eiche Nevada strukturiert Naturöl auf und genießen Sie eine hervorragende Optik und Funktionalität, die den Raum auf besondere Weise belebt.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8513905",
-        "seo": {
-          "texts": [
-            {
-              "title": "Click-Vinylboden Eiche Bologna Landhausdiele von Sonstige",
-              "text": "<p class=\"justify\">Der Click-Vinylboden Eiche Bologna Landhausdiele von der Marke Sonstige ist ein moderner und hochwertiger Bodenbelag, der sich perfekt für Ihre Wohnräume eignet. Die attraktive Landhausdielenoptik verleiht Ihren Räumen eine zeitlose Eleganz und sorgt für ein angenehmes Ambiente. Die Eiche Bologna Landhausdiele ist nicht nur optisch ansprechend, sondern zeichnet sich auch durch ihre Robustheit und Pflegeleichtigkeit aus.</p><p class=\"justify\">Der Bodenbelag ist biegesteifer als Vorgängermodelle und hat eine geringe Aufbauhöhe von nur 3,5 mm, was die Verlegung einfach und unkompliziert gestaltet. Darüber hinaus ist der Click-Vinylboden auch für Räume mit Wechseltemperaturen und Fußbodenheizungen (Warmwasser) geeignet, sodass er sich optimal in Küche und Bad einfügen lässt. Die Dielenmaße betragen 1220 mm x 180 mm x 3,5 mm und der Paketinhalt 2,635 m².</p><p class=\"justify\">Das Click-System ermöglicht eine schnelle und einfache Verlegung ohne zusätzliche Klebstoffe oder Werkzeuge. Die einzelnen Dielen lassen sich einfach ineinander klicken und liegen passgenau auf dem Untergrund. Die hochwertige Verarbeitung garantiert eine lange Lebensdauer des Vinylbodens und eine hohe Widerstandsfähigkeit gegenüber Kratzern, Verschleiß und Feuchtigkeit.</p><p class=\"justify\">Der Click-Vinylboden Eiche Bologna Landhausdiele steht für schickes Design, eine hohe Qualität und optimale Funktion. Einmal verlegt, erstrahlt er in neuem Glanz und verleiht Ihrem Zuhause einen Hauch von Eleganz und Komfort. Wer auf der Suche nach einem modernen und langlebigen Bodenbelag ist, der sollte sich diesen Vinylboden einmal genauer anschauen.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Shop",
-    "defaultMetaDescription": "Top Produkte in der Kategorie $KATEGORIE online kaufen auf wirmachenboden. Günstige Preise und top Produkte. Jetzt Geld sparen.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "7592249",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Click-Vinylboden Landhausdiele Eiche Paris Braun dunkel von Sonstige",
+                            "text": "<p class=\"justify\">Entdecken Sie den hochwertigen Click-Vinylboden Landhausdiele Eiche Paris Braun dunkel der Marke Sonstige (SKU: 7592249) für ein stilvolles und modernes Ambiente in Ihrem Zuhause. Dieser dekorative Design-Vinylboden ist in der trendigen Landhausdielenoptik gestaltet und verschönert jeden Wohnraum, einschließlich Küche und Bad. Dank der geringen Aufbauhöhe von 3,5 mm ist dieser Bodenbelag besonders renovierungsfreundlich und wird zum optischen Highlight in Ihrer Wohnung.</p><p class=\"justify\">Der Click-Vinylboden Eiche Paris Braun dunkel ist biegesteifer als Vorgängermodelle und eignet sich hervorragend für Räume mit Wechseltemperaturen und Fußbodenheizungen (Warmwasser). Er ist in der Kategorie Vinylböden, Teil der Hauptkategorien Wohnen und Bodenbeläge sowie Laminat, Parkett & Vinylböden, zu finden. Mit einer GTIN13 von 4260603930593 ist die Qualität dieses Produkts gewährleistet.</p><p class=\"justify\">Dieses Produkt wird Ihnen in einer Packung mit 2,635 m² geliefert und ermöglicht eine einfache und schnelle Verlegung dank der praktischen Click-Technologie. Schauen Sie sich die hochauflösenden Bilder auf unserer Website an, um einen Eindruck von der stilvollen Optik des Click-Vinylbodens Landhausdiele Eiche Paris Braun dunkel zu erhalten. Die attraktive Optik und die hohe Qualität sprechen für sich – und das zum unschlagbaren Preis von nur 52,67 €!</p><p class=\"justify\">Profitieren Sie von der hohen Zufriedenheit unserer zahlreichen Kunden, die dieses Produkt mit 4 Sternen bei über 440 Bewertungen positiv bewertet haben. Überzeugen Sie sich selbst von der Qualität und dem großartigen Preis-Leistungs-Verhältnis des Click-Vinylbodens Landhausdiele Eiche Paris Braun dunkel.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7676588",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Teppich Smuq Copenhagen 67 cm x 120 cm",
+                            "text": "<p class=\"justify\">Der Teppich Smuq Copenhagen 67 cm x 120 cm ist ein attraktiver und vielseitiger Teppichläufer, der zu den hochwertigen Produkten der Marke Sonstige gehört. Mit seiner traditionellen Gestaltung verleiht er jedem Raum seinen eigenen Stil und bietet zugleich eine praktische Lösung zur Bodenschutz und Verschönerung. Dank seiner UV-Beständigkeit eignet sich dieser Teppich sowohl für den Innen- als auch für den Außenbereich.</p><p class=\"justify\">Der Teppich zeichnet sich durch seine flexible Rückseite und gewebte Struktur aus, die eine einfache Integration in verschiedene Umgebungen ermöglicht. Er kann problemlos an Holz-, Fliesen- und Betonböden angepasst werden und ist auch für Fußbodenheizungen geeignet. Die dünne, rutschfeste Oberfläche sorgt für Sicherheit und Langlebigkeit und macht den Teppich zu einem recyclebaren Produkt. Der Teppichläufer hat eine Größe von 67 cm x 120 cm und besteht aus 100 % Vinyl.</p><p class=\"justify\">Mit seiner einzigartigen Erscheinung kann der Teppich Smuq Copenhagen sowohl im Innenbereich wie Wohnzimmer, Küche oder Flur, als auch im Außenbereich, beispielsweise auf Terrasse oder Balkon, verwendet werden. Dabei fungiert er nicht nur als rutschfeste Unterlage, sondern wertet auch das Erscheinungsbild des Raumes auf, indem er zum echten Hingucker wird.</p><p class=\"justify\">Erhältlich zum Preis von 29,99 Euro, ist der Teppich Smuq Copenhagen ein ausgezeichnetes Produkt, das Design, Funktion und Qualität in sich vereint. Die hervorragenden Kundenbewertungen, die diesem Teppichläufer 5 von 5 Sternen verleihen, sowie die hohe Anzahl von 294 Rezensionen, sprechen für die Zufriedenheit der Nutzer und die Beliebtheit des Produkts.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4428546",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "OBI Sockelleiste Historic Pine 40 mm x 20 mm x 2.600 mm",
+                            "text": "<p class=\"justify\">Die hochwertige OBI Sockelleiste Historic Pine in den Maßen 40 mm x 20 mm x 2.600 mm schafft eine stilvolle Verbindung von Boden und Wand und trägt so dazu bei, Ihren Wohnraum optisch aufzuwerten. Mit dem einzigartigen Design und der akkuraten Verarbeitung der Sockelleiste Historic Pine aus dem Hause OBI setzen Sie ein Statement in Ihrem Zuhause, das sowohl funktionell als auch ästhetisch ansprechend ist.</p><p class=\"justify\">Die Sockelleiste ist aus robustem Material gefertigt und passt ideal zu Laminat-, Parkett- und Vinylböden. Durch den Einsatz von Leistenclips lässt sich die Fußleiste einfach und sauber montieren, was den Aufwand auf ein Minimum reduziert. Mit einer Länge von 2,6 Metern eignet sich die Sockelleiste perfekt für den Einsatz in Ihrem Wohnbereich, egal ob im Wohnzimmer, Schlafzimmer oder Flur. Falls Ihnen eine andere Optik oder Farbe vorschwebt, bietet OBI auch diverse Alternativen bei den zur Verfügung stehenden Materialien und Farben.</p><p class=\"justify\">Ein zusätzlicher Vorteil dieser Sockelleiste ist, dass sie, abgesehen von ihrem attraktiven Design, einen hervorragenden Schutz für Ihre Wände gewährleistet. Die hochwertige Verarbeitung und die Verwendung von langlebigen Materialien sorgen dafür, dass Ihre Wände vor Stoß- und Kratzschäden geschützt sind. Das Resultat ist ein harmonisches Gesamtbild, das sowohl praktisch als auch optisch überzeugt.</p><p class=\"justify\">Mit der OBI Sockelleiste Historic Pine treffen Sie eine exzellente Entscheidung. Nicht nur die hohe Qualität und das ansprechende Design sprechen für sich, auch die einfache Montage sowie der Schutz der Wände machen die Sockelleiste zu einer lohnenden Investition. Lassen Sie sich von der OBI Sockelleiste Historic Pine begeistern und profitieren Sie gleichzeitig von einer optischen Aufwertung Ihres Wohnraums sowie einem langanhaltenden Schutz Ihrer Wände.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2798353",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Click-Vinylboden Dakota Pine - Sonstige",
+                            "text": "<p class=\"justify\">Verwandeln Sie Ihr Zuhause mit dem Click-Vinylboden Dakota Pine von Sonstige in eine Wohlfühloase. Dieser hochwertige Vinylboden in authentischer Holzoptik verleiht jedem Raum eine natürliche und elegante Atmosphäre. Durch seine exzellente Nachbildung eines echten Holzbodens verbindet er die positiven Eigenschaften eines künstlichen Bodenbelags mit dem ansprechenden Aussehen eines Holzbodens.</p><p class=\"justify\">Der Dakota Pine Vinylboden ist mit der Nutzungsklasse 23/31 ausgezeichnet, sodass er sowohl in Wohnräumen mit hoher als auch in gewerblichen Räumen mit geringer Nutzung eingesetzt werden kann. Er eignet sich auch hervorragend für Räume mit höherer Feuchtigkeit wie Badezimmer oder Keller, dank seines Feuchtschutzes. Zudem kann dieser Vinylboden problemlos auf einer Fußbodenheizung verlegt werden.</p><p class=\"justify\">Das praktische Klicksystem ermöglicht eine flexible und unkomplizierte Verlegung des Bodens. Im Gegensatz zu verklebten Böden kann der Dakota Pine Vinylboden mit Klicksystem direkt nach der Verlegung betreten werden. Bei Bedarf können einzelne Paneele einfach ausgetauscht werden. Die Pflege des Vinylbodens gestaltet sich ebenfalls einfach und hygienisch, da Schmutz an der Oberfläche bleibt und sich nicht im Material absetzt.</p><p class=\"justify\">Dieser pflegeleichte Designboden ist die ideale Lösung für Allergiker und Haushalte mit Tieren, da er hygienisch und leicht zu reinigen ist. In einem Paket sind 1,735 m² des Click-Vinylbodens Dakota Pine enthalten. Entdecken Sie die Vorteile dieses ansprechenden und praktischen Bodenbelags und verwandeln Sie Ihr Zuhause in eine stilvolle und gemütliche Wohnlandschaft.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1040559",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Sockelleiste Kiefer 23 mm x 6 mm Länge 2400 mm",
+                            "text": "<p class=\"justify\">Die Sockelleiste Kiefer 23 mm x 6 mm Länge 2400 mm ist ein hochwertiges Produkt der Marke 'Sonstige'. Die Leiste eignet sich hervorragend zur stilvollen Gestaltung Ihrer Wohnräume und bietet Ihnen eine attraktive und praktische Lösung für die Dekoration von Bodenbelägen. Ein unverwechselbares Merkmal dieser Sockelleiste ist das natürliche und zeitlose Design in Kiefer und die hochwertige Verarbeitung, die für Langlebigkeit und Stabilität sorgt.</p><p class=\"justify\">Mit einer Länge von 2400 mm und einer Breite von 23 mm ist die Sockelleiste für verschiedene Raumgrößen geeignet und lässt sich problemlos anpassen. Die Leiste ist in verschiedenen Größen und Materialausführungen erhältlich, so dass für jeden Geschmack und Einrichtungsstil die passende Option vorhanden ist. Das Produkt ist für die Verwendung mit Laminat, Parkett und Vinylböden konzipiert und bietet eine hervorragende Ergänzung für Ihre Bodengestaltung.</p><p class=\"justify\">Die Montage der Sockelleiste Kiefer 23 mm x 6 mm Länge 2400 mm ist einfach und unkompliziert. Mit einer Bewertung von 4 Sternen und 250 Rezensionen von zufriedenen Kunden können Sie sich auf die Qualität des Produkts verlassen. Die Leiste hat einen attraktiven Preis von 3,99 € und bietet ein hervorragendes Preis-Leistungs-Verhältnis.</p><p class=\"justify\">Abschließend ist die Sockelleiste Kiefer 23 mm x 6 mm Länge 2400 mm eine erstklassige Wahl für alle, die ihre Wohnräume stilvoll und praktisch gestalten möchten. Die Leiste bietet eine perfekte Kombination aus Design, Qualität und Preis und ist eine ideale Ergänzung für jeden Raum. Bringen Sie Ihren Boden zu einem gekonnten Abschluss und schaffen im Handumdrehen ein einheitliches, harmonisches Ambiente in Ihren Räumen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4907853",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Wolfcraft Laminat Einpasser - Das perfekte Werkzeug für Laminat- und Parkettverlegung",
+                            "text": "<p class=\"justify\">Der Wolfcraft Laminat Einpasser ist das ideale Werkzeug für alle Heimwerker, die ihre Laminat- oder Parkettböden selbst verlegen möchten. Dieses praktische Hilfsmittel aus dem Hause Wolfcraft erleichtert Ihnen das exakte Ausmessen der letzten Laminatreihe und sorgt für eine professionelle Verlegung. Ausgestattet mit einer extrabreiten Schiene bietet der Einpasser eine stabile Auflage für Ihre Laminatdielen und ermöglicht Ihnen somit präzise Arbeiten.</p><p class=\"justify\">Zudem ist der Wolfcraft Laminat Einpasser flexibel einstellbar und kann verschiedene Abmessungen bis zu 235 mm anpassen. Dank des integrierten Gleiträddchens wird Ihnen die optimale Anpassung des Wandverlaufs ermöglicht. Der mitgelieferte Stift zum Anzeichnen wird automatisch durch einen O-Ring unten gehalten – somit ist ein problemloses und effizientes Anzeichnen garantiert. Sogar saubere Linien stellen mit diesem Werkzeug keine Herausforderung mehr dar!</p><p class=\"justify\">Der Wolfcraft Laminat Einpasser überzeugt nicht nur durch seine Funktionalität, sondern auch durch seine qualitative Verarbeitung und Langlebigkeit. Als Teil der Kategorie \"Laminatwerkzeug & Parkettverlegewerkzeug\" ist dieses Produkt ein unverzichtbarer Helfer für all jene, die Wert auf eine präzise und hochwertige Bodenverlegung legen. Egal ob Anfänger oder erfahrener Handwerker, mit dem Wolfcraft Laminat Einpasser erreichen Sie stets professionelle Ergebnisse.</p><p class=\"justify\">Entscheiden Sie sich für dieses hochwertige Produkt und profitieren Sie von den Vorteilen des Wolfcraft Laminat Einpassers. Überzeugen Sie sich selbst von der Qualität und Präzision dieses nützlichen Werkzeuges und erleichtern Sie sich die Arbeit bei der Verlegung von Laminat, Parkett oder Vinylböden. Werden auch Sie zum Profi-Handwerker mit dem Wolfcraft Laminat Einpasser.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2413045",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Masterfloor Laminatboden Kiefer Cottage Antik 8 mm",
+                            "text": "<p class=\"justify\">Der Masterfloor Laminatboden Kiefer Cottage Antik 8 mm ist ein moderner und edler Bodenbelag, der durch seine rustikale Kieferoptik besticht. Er eignet sich perfekt für den Einsatz in Wohnräumen sowie gewerblichen Räumen mit durchschnittlicher Nutzung - beispielsweise in Büros. Die ansprechende Optik und das edle Dekor werten jeden Raum optisch auf und verleihen ihm ein besonderes Flair.</p><p class=\"justify\">Die herausragende Kiefer-Nachbildung ist kaum von einem echten Naturboden zu unterscheiden. Der mittlere Farbton sorgt für einen edlen Touch, während die rustikale Optik eine gemütliche Atmosphäre schafft. Das Laminat lässt sich problemlos mit verschiedenen Stilrichtungen kombinieren. Dank der Fugen bieten die Dielen zusätzlichen Schutz vor Abnutzung und sorgen so für eine längere Haltbarkeit.</p><p class=\"justify\">Die Klickmechanik des Masterfloor Laminatbodens macht das Verlegen schnell und sauber, ohne den Einsatz von Klebstoff. Dadurch ist das Laminat auch für Einsteiger leicht zu handhaben. Die Nutzungsklasse NKL 23/32 zeigt, dass der Bodenbelag sowohl in Wohnräumen mit hoher Nutzung als auch in gewerblichen Räumen mit durchschnittlicher Nutzung einsetzbar ist. Zudem ist das Laminat für die Verwendung mit Fußbodenheizungen geeignet.</p><p class=\"justify\">Mit einer Gesamtfläche von 2,402 m² pro Paket bietet der Masterfloor Laminatboden Kiefer Cottage Antik 8 mm ausreichend Material, um auch größere Räume zu gestalten. Die hohe Produktqualität sowie die zahlreichen positiven Bewertungen und die 4-Sterne-Bewertung zeigen, dass Kunden mit diesem Laminatboden sehr zufrieden sind. Entscheiden Sie sich noch heute für den Masterfloor Laminatboden Kiefer Cottage Antik 8 mm und verwandeln Sie Ihren Wohnraum mit diesem stilvollen und langlebigen Bodenbelag.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6508428",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Egger Laminatboden Basic Eiche Antik Natur 6 x 193 x 1292 mm: Stilvoll und pflegeleicht",
+                            "text": "<p class=\"justify\">Der Egger Laminatboden Basic Eiche Antik Natur 6 x 193 x 1292 mm verbindet Ästhetik mit Funktionalität und eignet sich hervorragend für Wohnräume, Büros oder gewerbliche Räume. Die ansprechende Holzoptik der Eiche Antik Natur macht diesen Bodenbelag zu einer stilvollen und zeitlosen Wahl für verschiedene Einrichtungsstile.</p><p class=\"justify\">Dank der präzisen Verarbeitung und der naturgetreuen Holznachbildung ist der Egger Laminatboden kaum von einem echten Holzboden zu unterscheiden. Die warme, natürliche Farbgebung verleiht Ihrem Raum eine behagliche Atmosphäre, die zu vielen Farbkonzepten und Stilrichtungen passt. Die fugenfreie Verarbeitung sorgt dabei für ein ruhiges, harmonisches Gesamtbild. Die damit verbundenen Vorteile sind nicht nur optischer Natur: Fugenfreie Böden sind besonders hygienisch, da sich weniger Staub und Schmutz ansammelt.</p><p class=\"justify\">Die Verlegung des Laminatbodens gestaltet sich dank des innovativen Klicksystems unkompliziert und sauber – auf Klebstoff kann verzichtet werden. Das System sorgt für einen festen Verbund der einzelnen Paneele und ermöglicht eine präzise, passgenaue Verlegung. Mit einer Nutzungsklasse von NKL 23/31 eignet sich der Egger Laminatboden für den Einsatz in Wohnräumen mit hoher Nutzung und gewerblichen Räumen mit geringer Nutzung. Zusätzlich ist er bestens für die Verlegung auf Fußbodenheizungen geeignet.</p><p class=\"justify\">Mit dem Egger Laminatboden Basic Eiche Antik Natur 6 x 193 x 1292 mm setzen Sie auf ein Produkt, das durch seine ausdrucksstarke Optik und herausragende Qualität überzeugt. Es vereint Langlebigkeit, Stil und Komfort und stellt somit eine Investition in ein langlebiges, ästhetisches Wohnambiente dar.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8777583",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Designboden Landhausdiele Binyl Pro Eiche Major Oak hell von Sonstige",
+                            "text": "<p class=\"justify\">Der Designboden Landhausdiele Binyl Pro Eiche Major Oak hell aus der Marke Sonstige ist die perfekte Wahl für Ihre Wohn- und Gewerbeflächen. Dieser hochwertige Laminatboden verbindet Funktionalität und Ästhetik und eignet sich dank seiner Nutzungsklasse 23/33 hervorragend für viel genutzte Bereiche im gewerblichen Umfeld. Die moderne Landhausdielenoptik verleiht Ihrer Einrichtung eine zeitlose Eleganz, während die O.R.C.A. Moisture Defense Technology dem Boden eine optimale Feuchtigkeitsbeständigkeit verleiht.</p><p class=\"justify\">Der Binyl Pro Eiche Major Oak hell zeichnet sich durch seine robuste Oberfläche mit einer Abriebklasse von AC5 (EN 13329) aus, die Kratzern und Beanspruchungen des täglichen Lebens hervorragend standhält. So bleibt Ihr Laminatboden auch bei hoher Beanspruchung lange Zeit in einwandfreiem Zustand. Mit einer Dielenstärke von ca. 8 mm und einem Paketinhalt von 2,22 m² ist der Designboden ideal für verschiedene Raumgrößen und Raumtypen geeignet.</p><p class=\"justify\">Neben dem hohen Nutzwert überzeugt der Binyl Pro Eiche Major Oak hell Designboden auch durch seine einfache Pflege und Reinigung. Die feuchtigkeitsabweisende Technologie schützt Ihren Boden sogar vor kleineren Wasserschäden und verschütteten Getränken, sodass Sie sich keine Sorgen mehr um Ihren Bodenbelag machen müssen. Damit ist dieser Laminatboden die ideale Wahl für ein sorgenfreies Wohnen und Arbeiten.</p><p class=\"justify\">Insgesamt ist der Designboden Landhausdiele Binyl Pro Eiche Major Oak hell von Sonstige eine ausgezeichnete Investition in die Schönheit und Langlebigkeit Ihrer Räume. Die natürliche Eichenholzoptik und die qualitativ hochwertige Verarbeitung machen diesen Laminatboden zur ersten Wahl für anspruchsvolle Kunden, die auf der Suche nach einem stilvollen, funktionalen und langlebigen Bodenbelag sind.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "3510898",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Design-Vinylboden Kiefer Country Landhausdiele von Sonstige",
+                            "text": "<p class=\"justify\">Entdecken Sie den Design-Vinylboden Kiefer Country Landhausdiele von Sonstige, der sich durch seine natürliche Optik und hochwertige Oberfläche auszeichnet. Mit der SKU 3510898 und der GTIN13 9006947073955 gehört dieser Bodenbelag zur Kategorie Vinylböden und ist ein echter Blickfang für jeden Wohnraum. Dank seiner authentischen Maserung ist er kaum von einem echten Holzboden zu unterscheiden und passt perfekt zu unterschiedlichen Einrichtungsstilen.</p><p class=\"justify\">Der robuste und pflegeleichte Boden ist in massiver Click-Ausführung erhältlich und kann einfach und leimlos verlegt werden. Dadurch eignet er sich ideal für Böden mit Fußbodenheizung, insbesondere für Niedrigtemperatur-Warmwassersysteme. Durch seine wasserabweisende Oberfläche ist der Design-Vinylboden Kiefer Country Landhausdiele auch für den Einsatz in Küche und Bad bestens geeignet.</p><p class=\"justify\">Die hochwertige Verarbeitung des Vinylbodens sorgt für eine besonders strapazierfähige Oberfläche, die auch höheren Belastungen problemlos standhält. Mit einer Bewertung von 4 Sternen und 309 Kundenrezensionen hat der Design-Vinylboden Kiefer Country Landhausdiele viele zufriedene Kunden von seiner Qualität und Optik überzeugt. Wenn Sie auf der Suche nach einem langlebigen, hochwertigen und stilvollen Bodenbelag sind, ist dieser Vinylboden eine ausgezeichnete Wahl.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6222087",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Kaindl Laminatboden Masterfloor Aqualine XL 8 mm Beton Opalgrey",
+                            "text": "<p class=\"justify\">Der Kaindl Laminatboden Masterfloor Aqualine XL 8 mm Beton Opalgrey ist ein hochwertiges Produkt der Marke Kaindl, das Ihrem Zuhause oder Büro eine moderne und stilvolle Optik verleiht. Mit der Nutzungsklasse 33 ist dieser Laminatboden besonders langlebig und eignet sich daher hervorragend für stark beanspruchte Bereiche wie Gewerberäume oder Arbeitszimmer.</p><p class=\"justify\">Die ansprechende Beton-Optik in Opalgrey verleiht dem Laminatboden ein edles und authentisches Aussehen, das sowohl in modernen als auch in klassischen Einrichtungsstilen hervorragend zur Geltung kommt. Die sorgfältig gefertigten Dielen vermitteln einen rustikalen Look durch die Fugen, die jede Diele betonen und zusätzlichen Schutz vor Abnutzung bieten, was die Lebensdauer des Laminats erhöht.</p><p class=\"justify\">Die Verlegung des Kaindl Laminatboden Masterfloor Aqualine XL 8 mm Beton Opalgrey ist mühelos und zeitsparend. Mit der praktischen Klickverbindung lässt sich der Boden ohne den Einsatz von Klebstoff verlegen, wodurch auch Anfänger im Handumdrehen erfolgreich sind. Zudem kann der Laminatboden problemlos auf einer Fußbodenheizung verlegt werden, was zusätzlichen Komfort bietet.</p><p class=\"justify\">Mit einer Fläche von 2,546 m² pro Paket und einem attraktiven Preis bietet der Kaindl Laminatboden Masterfloor Aqualine XL 8 mm Beton Opalgrey ein hervorragendes Preis-Leistungs-Verhältnis. Die zahlreichen positiven Bewertungen und die 5-Sterne-Bewertung bestätigen die hohe Zufriedenheit der Kunden mit diesem Laminatboden. Entscheiden Sie sich für den Kaindl Laminatboden Masterfloor Aqualine XL 8 mm Beton Opalgrey und genießen Sie einen edlen und langlebigen Bodenbelag, der Ihrem Raum das gewisse Etwas verleiht.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5833926",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "System 11 Heizungsrohrverkleidung Weiß 107mm x 45mm Länge 2000mm - Sonstige",
+                            "text": "<p class=\"justify\">Die System 11 Heizungsrohrverkleidung in Weiß, mit den Maßen 107mm x 45mm und einer Länge von 2000mm, ist das perfekte Produkt, um den Übergang des Heizungsrohrs in den Boden elegant und harmonisch zu gestalten. Die Verkleidung passt optimal zum System 11 und sorgt für ein einheitliches Raumgefühl in jedem Wohnbereich. Hergestellt von der Marke \"Sonstige\", steht die Heizungsrohrverkleidung für Qualität und Langlebigkeit.</p><p class=\"justify\">Sie gehört zur Kategorie \"Leisten\" und kann in verschiedenen Bereichen wie Wohnen, Bodenbeläge, Laminat, Parkett und Vinylböden eingesetzt werden. Die Heizungsrohrverkleidung ist nicht nur funktional, sondern auch ästhetisch ansprechend und fügt sich perfekt in das gesamte Raumkonzept ein. Mit der GTIN13 4004616019933 und der SKU 5833926 ist dieses Produkt einzigartig und leicht identifizierbar.</p><p class=\"justify\">Die positive Resonanz der Kunden spricht für sich: Mit einer durchschnittlichen Bewertung von 5 Sternen und insgesamt 139 Rezensionen, zeigt die System 11 Heizungsrohrverkleidung, dass sie den Anforderungen moderner Raumgestaltung entspricht. Darüber hinaus ist die Verkleidung preislich attraktiv, mit einem Preis von 24,99 €, der eine Investition in diese Verkleidungslösung zur Verbesserung Ihres Wohnambientes lohnenswert macht.</p><p class=\"justify\">Zusammenfassend ist die System 11 Heizungsrohrverkleidung Weiß 107mm x 45mm Länge 2000mm von Sonstige eine hervorragende Wahl für all jene, die eine stilvolle und funktionale Lösung zur Abdeckung von Heizungsrohren suchen. Steigern Sie das Raumgefühl in Ihrem Zuhause und schaffen Sie eine harmonische Atmosphäre mit dieser hochwertigen Heizungsrohrverkleidung.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6615496",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Laminatboden Comfort Pinie Sea Pine Hell 7 mm",
+                            "text": "<p class=\"justify\">Der Laminatboden Comfort Pinie Sea Pine Hell 7 mm ist ein hochwertiger, heller und neutraler Bodenbelag, der sowohl für Wohnräume als auch Büros oder gewerbliche Räume geeignet ist. Die Marke Comfort steht für Qualität und ansprechendes Design, wodurch dieser Laminatboden Ihrem Wohnraum einen besonderen, modernen Look verleiht.</p><p class=\"justify\">Dieser Laminatboden überzeugt mit einem edlen und zeitgemäßen Pinien-Dekor, das durch die typischen Maserungen und charakteristischen Strukturen besonders authentisch wirkt. Dabei ist die Holznachbildung kaum von einem echten Holzboden zu unterscheiden. Die helle Farbgebung und die abwechslungsreiche 3-Stab-Optik sorgen für ein ansprechendes Gesamtbild und lassen sich mit nahezu jeder Stilrichtung kombinieren.</p><p class=\"justify\">Das Klick-System des Laminatbodens ermöglicht eine einfache und schnelle Verlegung ohne den Einsatz von Leim. Dieses System ist sowohl an der Kopf- als auch an der Längsseite der Paneelen angebracht und sorgt für umfassenden Halt. So gelingt auch Anfängern eine unkomplizierte Verlegung des Bodenlaminats.</p><p class=\"justify\">Mit der Nutzungsklasse 23/31 eignet sich der Laminatboden für Wohnräume mit hoher sowie für gewerbliche Räume mit geringer Nutzung. Daher ist der Einsatz in einem Büro, Gäste- oder Hotelzimmer problemlos möglich. Zudem ist das Holzlaminat für die Nutzung auf Fußbodenheizungen geeignet.</p><p class=\"justify\">Die Reinigung des Laminatbodens Comfort Pinie Sea Pine Hell 7 mm gestaltet sich besonders einfach. Er kann ohne Probleme mit einem Staubsauger oder einem leicht feuchten Wischmopp gereinigt werden. Das Paket beinhaltet 2,135 m² des Laminatbodens in Pinien-Optik mit den Maßen 19,3 cm x 138,3 cm. Mit einem Preis von 19,19 € pro Paket ist das Produkt zudem sehr preiswert für seine Qualität. Dank einer hohen Kundenbewertung von 4 Sternen aus 84 Rezensionen können Sie sicher sein, dass dieser Laminatboden eine hervorragende Wahl für Ihre Bedürfnisse ist.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8836900",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Selit Ökolit® Holzfaser Parkett- und Laminatunterlage 5 mm 7 m²: Lärmreduzierung und nachhaltige Trittschalldämmung",
+                            "text": "<p class=\"justify\">Die Selit Ökolit® Holzfaser Parkett- und Laminatunterlage ist eine hochwertige Lösung für die schwimmende Verlegung von Parkett und Laminat auf Holzuntergründen. Sie ist 5 mm stark und bietet eine hervorragende Trittschallreduktion von bis zu 19 dB, was zu einer angenehmeren und leiseren Raumakustik beiträgt. Mit einer Fläche von 7 m² pro Paket eignet sich dieses Produkt ideal für Renovierungs- und Umbauprojekte.</p><p class=\"justify\">Neben der akustischen Isolierung bietet die Ökolit® Holzfaser Laminatunterlage auch eine gute Wärmedämmung und ist deshalb geeignet für Räume mit Fußbodenheizung. Die Dauerhafte Druckfestigkeit beträgt 25 kPa und die Dynamische Druckfestigkeit 100.000 Zyklen, was bedeutet, dass die Unterlage auch unter ständiger Belastung und hoher Beanspruchung eine hervorragende Leistung erbringt. Die Punktuelle Ausgleichsfähigkeit (PC) von bis zu 1,0 mm sorgt dafür, dass Unebenheiten im Untergrund effektiv ausgeglichen werden.</p><p class=\"justify\">Die Selit Ökolit® Holzfaser Parkett- und Laminatunterlage ist aus nachwachsenden Rohstoffen hergestellt und unterstützt damit ein umweltbewusstes Renovieren. Sie ist optimal als Zwischenlage bei vorhandenen Holzuntergründen, wie zum Beispiel alten Holzdielenböden. Zudem ist sie stoßfest (RLB: ≥ 90 cm) und schützt den Nutzboden vor Beschädigungen, die beim Begehen oder durch schwere Möbelstücke entstehen können.</p><p class=\"justify\">Die Parkett- und Laminatunterlage von Selit besticht durch ihre hervorragenden technischen Eigenschaften, wie die Verträglichkeit mit Fußbodenheizung, die punktuelle Ausgleichsfähigkeit und die ausgezeichnete Trittschallminderung. Mit der Ökolit® Holzfaser Unterlage entscheiden Sie sich für eine nachhaltige Lösung zur Verbesserung Ihres Wohnkomforts. Die Laminatunterlage zeichnet sich durch eine hohe Langlebigkeit und Qualität aus und ist eine ideale Wahl für Ihr Zuhause.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9481870",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Living by Haro Parkett Landhausdiele 2V Eiche Nevada strukturiert Naturöl",
+                            "text": "<p class=\"justify\">Entdecken Sie das Living by Haro Parkett Landhausdiele 2V Eiche Nevada strukturiert Naturöl, einen hochwertigen Bodenbelag der Marke Living by Haro. Mit seiner ansprechenden Optik in Landhausdielen-Design und der Eiche Nevada-Struktur ist dieser Parkettboden die perfekte Ergänzung für Ihr Zuhause oder Büro.</p><p class=\"justify\">Die natürliche Farbgebung und Struktur dieses Parkettbodens lassen sich mit Möbeln unterschiedlicher Stilrichtungen harmonisch kombinieren. Die 2V-Fugen sorgen für ein rustikaleres Gesamtbild und betonen jede einzelne Diele. Dank der geölten Oberfläche wirkt der Boden besonders natürlich und bleibt dabei unkompliziert in der Pflege.</p><p class=\"justify\">Der Living by Haro Parkett Landhausdiele 2V Eiche Nevada strukturiert Naturöl ist wohnfertig behandelt und damit sofort verlegbar. Die Dielen haben eine Stärke von 12 mm und eine Nutzschicht von 2,5 mm aus echtem Holz. Bei Bedarf kann diese Nutzschicht auch nachträglich abgeschliffen werden. Die Fugen schützen die Kanten der Dielen vor Abnutzung und tragen so zu einer längeren Haltbarkeit des Bodenbelags bei.</p><p class=\"justify\">Kleinere Kratzer und Abnutzungen lassen sich im Vergleich zu einem lackierten Parkett leichter ausbessern. Jedes Paket besteht aus 3,56 m² des Parkettbodenbelags in Landhausdielenoptik, sodass Sie die perfekte Menge für Ihr Projekt kaufen können. Mit einer hohen Bewertung von 4 Sternen und 325 Kundenbewertungen bestätigt sich die Qualität dieses stilvollen Bodenbelags.</p><p class=\"justify\">Werten Sie Ihr Wohn- oder Arbeitsumfeld mit dem Living by Haro Parkett Landhausdiele 2V Eiche Nevada strukturiert Naturöl auf und genießen Sie eine hervorragende Optik und Funktionalität, die den Raum auf besondere Weise belebt.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8513905",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Click-Vinylboden Eiche Bologna Landhausdiele von Sonstige",
+                            "text": "<p class=\"justify\">Der Click-Vinylboden Eiche Bologna Landhausdiele von der Marke Sonstige ist ein moderner und hochwertiger Bodenbelag, der sich perfekt für Ihre Wohnräume eignet. Die attraktive Landhausdielenoptik verleiht Ihren Räumen eine zeitlose Eleganz und sorgt für ein angenehmes Ambiente. Die Eiche Bologna Landhausdiele ist nicht nur optisch ansprechend, sondern zeichnet sich auch durch ihre Robustheit und Pflegeleichtigkeit aus.</p><p class=\"justify\">Der Bodenbelag ist biegesteifer als Vorgängermodelle und hat eine geringe Aufbauhöhe von nur 3,5 mm, was die Verlegung einfach und unkompliziert gestaltet. Darüber hinaus ist der Click-Vinylboden auch für Räume mit Wechseltemperaturen und Fußbodenheizungen (Warmwasser) geeignet, sodass er sich optimal in Küche und Bad einfügen lässt. Die Dielenmaße betragen 1220 mm x 180 mm x 3,5 mm und der Paketinhalt 2,635 m².</p><p class=\"justify\">Das Click-System ermöglicht eine schnelle und einfache Verlegung ohne zusätzliche Klebstoffe oder Werkzeuge. Die einzelnen Dielen lassen sich einfach ineinander klicken und liegen passgenau auf dem Untergrund. Die hochwertige Verarbeitung garantiert eine lange Lebensdauer des Vinylbodens und eine hohe Widerstandsfähigkeit gegenüber Kratzern, Verschleiß und Feuchtigkeit.</p><p class=\"justify\">Der Click-Vinylboden Eiche Bologna Landhausdiele steht für schickes Design, eine hohe Qualität und optimale Funktion. Einmal verlegt, erstrahlt er in neuem Glanz und verleiht Ihrem Zuhause einen Hauch von Eleganz und Komfort. Wer auf der Suche nach einem modernen und langlebigen Bodenbelag ist, der sollte sich diesen Vinylboden einmal genauer anschauen.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Shop",
+        "defaultMetaDescription": "Top Produkte in der Kategorie $KATEGORIE online kaufen auf wirmachenboden. Günstige Preise und top Produkte. Jetzt Geld sparen.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Shop",
+        "defaultMetaDescription": "Bodenbeläge in höchster Qualität von $HERSTELLER. Langlebigkeit und Optik: Bodenbeläge von $HERSTELLER sind die erste Wahl. Beste Preise.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Bodenbeläge",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Bodenbeläge Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Bodenbeläge Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Shop",
-    "defaultMetaDescription": "Bodenbeläge in höchster Qualität von $HERSTELLER. Langlebigkeit und Optik: Bodenbeläge von $HERSTELLER sind die erste Wahl. Beste Preise.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Bodenbeläge",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Bodenbeläge Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Bodenbeläge Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
